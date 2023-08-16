@@ -21,7 +21,6 @@ class Solution(object):
             previous_value = symbols[s[i]]
             i += 1
           else:
-             print(i, s[i])
              return False
       return result
 
