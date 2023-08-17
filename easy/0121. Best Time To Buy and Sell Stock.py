@@ -12,7 +12,8 @@ class Solution(object):
         for p in prices:
             if p < buy:
                 buy = p
-            best = max(best, p - buy)
+            else:
+                best = max(best, p - buy)
         return best
 
 
