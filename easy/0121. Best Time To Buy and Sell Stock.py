@@ -17,4 +17,4 @@ class Solution(object):
         return best
 
 
-print(Solution().maxProfit([7, 1, 5, 3, 6, 4]))  # expected 5
+# print(Solution().maxProfit([7, 1, 5, 3, 6, 4]))  # expected 5
