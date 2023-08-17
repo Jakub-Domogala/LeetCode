@@ -5,9 +5,9 @@ from typing import List
 
 
 class Solution(object):
-    def threeSum(self, nums: List[int], target: int = 0) -> List[List[int]]:
+    def threeSumClosest(self, nums: List[int], target: int) -> int:
         nums.sort()
-        result = []
+        best_val = float('inf')
         for i, a in enumerate(nums):
             if i > 0 and a == nums[i - 1]:
                 continue
@@ -15,16 +15,18 @@ class Solution(object):
             right = len(nums) - 1
             while left < right:
                 threeSum = a + nums[left] + nums[right]
+                if abs(threeSum - target) < abs(best_val - target):
+                    best_val = threeSum
                 if threeSum > target:
                     right -= 1
                 elif threeSum < target:
                     left += 1
                 else:
-                    result.append([a, nums[left], nums[right]])
+                    # result.append([a, nums[left], nums[right]])
                     left += 1
                     while nums[left] == nums[left - 1] and left < right:
                         left += 1
-        return result
+        return best_val
 
         # expected [[-1,-1,2],[-1,0,1]]
-# print(Solution().threeSum([-1, 0, 1, 2, -1, -4]))
+# print(Solution().threeSumClosest([0, 0, 0], 1))
