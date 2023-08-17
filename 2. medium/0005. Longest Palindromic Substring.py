@@ -21,4 +21,4 @@ class Solution(object):
         return result
 
 
-print(Solution().longestPalindrome("babad"))
+# print(Solution().longestPalindrome("babad"))
