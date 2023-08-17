@@ -18,6 +18,13 @@ class ListNode(object):
             jumper = jumper.next
         return result
 
+    def print(self):
+        jumper = self
+        while jumper is not None:
+            print(jumper.val, "->", end=" ")
+            jumper = jumper.next
+        print(None)
+
 
 class Solution(object):
     def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
