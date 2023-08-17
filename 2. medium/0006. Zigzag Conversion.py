@@ -3,7 +3,7 @@
 
 class Solution(object):
     def convert(self, s: str, numRows: int) -> str:
-        def count_jump(num_rows, idx):
+        def count_jump(num_rows: int, idx: int):
             idx = idx % ((num_rows-1)*2)
             res = (num_rows - idx - 1) * 2
             return res
