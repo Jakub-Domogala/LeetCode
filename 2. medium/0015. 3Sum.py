@@ -23,6 +23,5 @@ class Solution(object):
                         left += 1
         return result
 
-
         # expected [[-1,-1,2],[-1,0,1]]
-print(Solution().threeSum([-1, 0, 1, 2, -1, -4]))
+# print(Solution().threeSum([-1, 0, 1, 2, -1, -4]))
