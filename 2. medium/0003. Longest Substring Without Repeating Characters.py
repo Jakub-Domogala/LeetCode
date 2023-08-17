@@ -1,3 +1,6 @@
+# Time Complexity:   O(n)
+# Memory Complexity: O(c)
+
 from collections import defaultdict
 
 
