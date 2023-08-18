@@ -12,3 +12,4 @@ def ones(n):  # bruteforce
                 count += 1
     print(n, count, end='\t\n')
 
+
