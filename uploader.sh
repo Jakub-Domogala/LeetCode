@@ -14,6 +14,6 @@ git add .
 git commit -m "$1"
 
 # Push the changes to the remote repository
-git push origin main
+git push
 
 echo "Upload completed successfully!"
