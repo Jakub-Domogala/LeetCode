@@ -2,7 +2,7 @@
 
 if [ "$1" == "upload" ] && [ "$2" ]; then
     # Run generate.py
-    python generate.py
+    python readme_generator.py
 
     # Git pull to get the latest changes
     git pull origin main
