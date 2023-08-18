@@ -5,7 +5,7 @@
 python readme_generator.py
 
 # Git pull to get the latest changes
-git pull origin main
+git pull
 
 # Add all changes to the staging area
 git add .
