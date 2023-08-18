@@ -25,8 +25,10 @@ def generate_file_links(directory="", indent=""):
     return links
 
 with open(output_file, "w") as f:
-    f.write("# Repository Contents\n\n")
-    f.write("This README contains links to Python files in the repository.\n\n")
+    f.write("# LeetCode\n\n")
+    f.write("![ghost-white](https://github.com/Jakub-Domogala/LeetCode/assets/78169141/46417268-208f-438b-8670-85166ac484b5) \n")
+    f.write('\n')
+    f.write("\n\n")
     f.write("## Table of Contents\n")
     file_links = generate_file_links()
     f.write(file_links)
