@@ -2,7 +2,7 @@
 
 
 # Run generate.py
-python readme_generator.py
+python 4.utilities/readme_generator.py
 
 # Git pull to get the latest changes
 git pull
