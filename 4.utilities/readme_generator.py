@@ -19,7 +19,7 @@ def generate_file_links(directory="", indent=""):
         if os.path.isdir(full_path):
             links += f"{indent}- {entry}\n"
             links += generate_file_links(full_path, indent + "  ")
-        elif entry.endswith(".py"):  # Check if the file has a .py extension
+        elif entry.endswith(".py") and entry != "readme_generator.py":  # Check if the file has a .py extension
             file_link = f"{repo_base_url}/{urllib.parse.quote(directory)}/{urllib.parse.quote(entry)}".replace('\\', '/').replace('%5C', '/')
             links += f"{indent}- [{entry}]({file_link})\n"
     return links

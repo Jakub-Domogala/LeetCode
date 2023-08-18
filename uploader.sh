@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# prepared only to be run from repo root dir
 
 # Run generate.py
 python 4.utilities/readme_generator.py
