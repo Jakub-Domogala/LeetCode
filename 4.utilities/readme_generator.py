@@ -6,7 +6,7 @@ repo_name = "LeetCode"
 repo_branch = "master"
 repo_base_url = f"https://github.com/{repo_owner}/{repo_name}/blob/{repo_branch}"
 
-output_file = "test.md"
+output_file = "README.md"
 
 def generate_file_links(directory="", indent=""):
     links = ""
