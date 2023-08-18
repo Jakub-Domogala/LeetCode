@@ -22,9 +22,9 @@ def generate_file_links(directory, indent=""):
             links += generate_file_links(full_path, indent + "  ")
         elif entry.endswith(".py"):  # Check if the file has a .py extension
             # print(directory, full_path)
-            file_link = f"{repo_base_url}/{urllib.parse.quote(directory[2:])}/{urllib.parse.quote(entry)}"
+            file_link = f"{repo_base_url}/{urllib.parse.quote(directory)}/{urllib.parse.quote(entry)}"
             links += f"{indent}- [{entry}]({file_link})\n"
-    return links
+    return links.replace(".%5C", "")
 
 with open(output_file, "w") as f:
     f.write("# Repository Contents\n\n")
