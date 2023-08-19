@@ -41,10 +41,10 @@ class ListNode(object):
         return self
 
 
-arr = [1, 2, 3]
-l1 = ListNode().arr2list(arr)
-l1 = l1.appendleft(4)
-l1 = l1.append(7)
-print(l1)
-arr = l1.list2arr()
-print(arr)
+# arr = [1, 2, 3]
+# l1 = ListNode().arr2list(arr)
+# l1 = l1.appendleft(4)
+# l1 = l1.append(7)
+# print(l1)
+# arr = l1.list2arr()
+# print(arr)
