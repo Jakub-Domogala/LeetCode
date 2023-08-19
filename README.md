@@ -30,4 +30,6 @@
 - 3.hard
   - [0233. Number of Digit One.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0233.%20Number%20of%20Digit%20One.py)
   - [0239. Sliding Window Maximum.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0239.%20Sliding%20Window%20Maximum.py)
+  - siema
+    - [hello.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/siema/hello.py)
 - utilities
