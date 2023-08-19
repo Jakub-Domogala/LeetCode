@@ -15,7 +15,6 @@
   - [0121. Best Time To Buy and Sell Stock.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0121.%20Best%20Time%20To%20Buy%20and%20Sell%20Stock.py)
   - utilities
     - [ListNode.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/utilities/ListNode.py)
-    - __pycache__
 - 2.medium
   - [0002. Add Two Numbers.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0002.%20Add%20Two%20Numbers.py)
   - [0003. Longest Substring Without Repeating Characters.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0003.%20Longest%20Substring%20Without%20Repeating%20Characters.py)

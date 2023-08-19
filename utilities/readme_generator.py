@@ -7,7 +7,10 @@ repo_branch = "master"
 repo_base_url = f"https://github.com/{repo_owner}/{repo_name}/blob/{repo_branch}"
 
 file_extensions_included = ['.py']
-files_excluded = ["readme_generator.py"]
+files_excluded = [
+    "readme_generator.py", 
+    "__pycache__" 
+    ]
 
 output_file = "README.md"
 
@@ -16,8 +19,10 @@ def generate_file_links(directory="", indent=""):
     entries = os.listdir("./" + directory)
     entries.sort()  # Sort the entries alphabetically
     for entry in entries:
-        if entry[0] == '.':
+        if entry[0] == '.' or entry in files_excluded:
+            print(f'excluded--------- {entry}')
             continue
+        print(entry)
         full_path = os.path.join(directory, entry)
         if os.path.isdir(full_path):
             links += f"{indent}- {entry}\n"
