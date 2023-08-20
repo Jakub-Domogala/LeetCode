@@ -1,3 +1,4 @@
+
 # LeetCode
 
 ![ghost-white](https://github.com/Jakub-Domogala/LeetCode/assets/78169141/46417268-208f-438b-8670-85166ac484b5) 
@@ -35,4 +36,12 @@
 - 3.hard
   - [0233. Number of Digit One.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0233.%20Number%20of%20Digit%20One.py)
   - [0239. Sliding Window Maximum.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0239.%20Sliding%20Window%20Maximum.py)
+- coverage
 - utilities
+
+--- 
+### Note
+
+<div style="border: 1px solid black; padding: 10px; border-radius: 2px; background-color: rgba(245, 245, 245, 0.2);">
+Files in this repository are not prepared to be used on LeetCode website, if you are planning to use them for LeetCode, you might need to slightly adjust them
+</div>

@@ -6,38 +6,57 @@ repo_name = "LeetCode"
 repo_branch = "master"
 repo_base_url = f"https://github.com/{repo_owner}/{repo_name}/blob/{repo_branch}"
 
-file_extensions_included = ['.py']
-files_excluded = [
-    "readme_generator.py", 
-    "test.py",
-    "__pycache__" 
-    ]
+file_extensions_included = [".py"]
+files_excluded = ["readme_generator.py", "test.py", "__pycache__"]
+
+input_before = os.path.join("utilities", "readme_beginning.md")
+input_after = os.path.join("utilities", "readme_ending.md")
 
 output_file = "README.md"
+
 
 def generate_file_links(directory="", indent=""):
     links = ""
     entries = os.listdir("./" + directory)
     entries.sort()  # Sort the entries alphabetically
     for entry in entries:
-        if entry[0] == '.' or entry in files_excluded:
-            print(f'excluded--------- {entry}')
+        if entry[0] == "." or entry in files_excluded:
             continue
-        print(entry)
         full_path = os.path.join(directory, entry)
         if os.path.isdir(full_path):
             links += f"{indent}- {entry}\n"
             links += generate_file_links(full_path, indent + "  ")
-        elif os.path.splitext(entry)[1] in file_extensions_included and entry not in files_excluded:  # Check if the file has a .py extension
-            file_link = f"{repo_base_url}/{urllib.parse.quote(directory)}/{urllib.parse.quote(entry)}".replace('\\', '/').replace('%5C', '/')
+        elif (
+            os.path.splitext(entry)[1] in file_extensions_included
+            and entry not in files_excluded
+        ):
+            file_link = f"{repo_base_url}/{urllib.parse.quote(directory)}/{urllib.parse.quote(entry)}".replace(
+                "\\", "/"
+            ).replace(
+                "%5C", "/"
+            )
             links += f"{indent}- [{entry}]({file_link})\n"
     return links
 
+
+def get_file_content(filename):
+    if not os.path.exists(filename):
+        print(f"Warning: {filename} does not exist. Skipping...")
+        return ""
+
+    with open(filename, "r") as file:
+        return file.read()
+
+
 with open(output_file, "w") as f:
+    f.write(get_file_content(input_before) + "\n")
     f.write("# LeetCode\n\n")
-    f.write("![ghost-white](https://github.com/Jakub-Domogala/LeetCode/assets/78169141/46417268-208f-438b-8670-85166ac484b5) \n")
-    f.write('\n')
+    f.write(
+        "![ghost-white](https://github.com/Jakub-Domogala/LeetCode/assets/78169141/46417268-208f-438b-8670-85166ac484b5) \n"
+    )
+    f.write("\n")
     f.write("\n\n")
     f.write("## Table of Contents\n")
     file_links = generate_file_links()
-    f.write(file_links)
+    f.write(file_links + "\n--- \n")
+    f.write(get_file_content(input_after))
