@@ -9,6 +9,7 @@ repo_base_url = f"https://github.com/{repo_owner}/{repo_name}/blob/{repo_branch}
 file_extensions_included = ['.py']
 files_excluded = [
     "readme_generator.py", 
+    "test.py",
     "__pycache__" 
     ]
 
