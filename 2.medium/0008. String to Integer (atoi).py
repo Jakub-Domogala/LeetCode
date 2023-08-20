@@ -1,3 +1,6 @@
+# Time Complexity:   O(n)
+# Memory Complexity: O(c)
+
 class Solution(object):
     def myAtoi(self, s: str) -> int:
         # 1
@@ -19,6 +22,8 @@ class Solution(object):
         while i < n and ord('0') <= ord(s[i]) <= ord('9'):
             result *= 10
             result += ord(s[i]) - ord('0')
+            if abs(result) > 2**31:
+                break
             i += 1
         
         # 5
