@@ -21,6 +21,7 @@
   - [0005. Longest Palindromic Substring.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0005.%20Longest%20Palindromic%20Substring.py)
   - [0006. Zigzag Conversion.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0006.%20Zigzag%20Conversion.py)
   - [0007. Reverse Integer.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0007.%20Reverse%20Integer.py)
+  - [0008. String to Integer (atoi).py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0008.%20String%20to%20Integer%20%28atoi%29.py)
   - [0011. Container With Most Water.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0011.%20Container%20With%20Most%20Water.py)
   - [0015. 3Sum.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0015.%203Sum.py)
   - [0016. 3Sum Closest.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0016.%203Sum%20Closest.py)
@@ -30,7 +31,4 @@
 - 3.hard
   - [0233. Number of Digit One.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0233.%20Number%20of%20Digit%20One.py)
   - [0239. Sliding Window Maximum.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0239.%20Sliding%20Window%20Maximum.py)
-  - siema
-    - [h2.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/siema/h2.py)
-    - [hello.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/siema/hello.py)
 - utilities
