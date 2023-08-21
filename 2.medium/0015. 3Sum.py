@@ -1,5 +1,5 @@
 # Time Complexity:   O(n^2)
-# Memory Complexity: O(c) if sort does not take mem if it does its O(n)
+# Memory Complexity: O(1) if sort does not take mem if it does its O(n)
 
 from typing import List
 

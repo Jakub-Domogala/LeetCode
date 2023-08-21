@@ -1,3 +1,6 @@
+# Time Complexity:   O(n)
+# Memory Complexity: O(1)
+
 from utilities.ListNode import ListNode
 
 class Solution(object):

@@ -1,5 +1,5 @@
 # Time Complexity:   O(n)
-# Memory Complexity: O(c)
+# Memory Complexity: O(1)
 
 class Solution(object):
     def myAtoi(self, s: str) -> int:

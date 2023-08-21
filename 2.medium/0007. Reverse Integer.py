@@ -1,5 +1,5 @@
-# Time Complexity:   O(c)
-# Memory Complexity: O(c)
+# Time Complexity:   O(1)
+# Memory Complexity: O(1)
 
 class Solution(object):
     def reverse(self, x: int) -> int:

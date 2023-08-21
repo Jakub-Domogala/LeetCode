@@ -1,5 +1,5 @@
 # Time Complexity:   O(max(n1, n2))
-# Memory Complexity: O(max(n1, n2()
+# Memory Complexity: O(max(n1, n2))
 # Where n1 and n2 are lengths of l1 and l2
 
 # Definition for singly-linked list.

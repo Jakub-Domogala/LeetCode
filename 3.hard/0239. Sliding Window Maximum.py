@@ -10,9 +10,6 @@ class Solution(object):
         que = deque()
         result = []
 
-        # def que_values():
-        #     return list(map(lambda x: nums[x], que))
-
         def pop_smaller_than_new_elem_and_append_it():
             while que and nums[i] >= nums[que[-1]]:
                 que.pop()

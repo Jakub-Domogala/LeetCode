@@ -1,5 +1,5 @@
 # Time Complexity:   O(n)
-# Memory Complexity: O(c)
+# Memory Complexity: O(1)
 
 # it also contains protection for inputting wrong numbers
 class Solution(object):
