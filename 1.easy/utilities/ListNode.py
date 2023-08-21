@@ -55,16 +55,24 @@ class ListNode(object):
             jumper = jumper.next
             result += 1
         return result
+    
+    def swap_pairs(self):
+        if not self.next:
+            return self
+        back = ListNode(None, self)
+        result, front= self.next, self.next
+        while front:
+            # reattach pointers
+            back.next.next, front.next, back.next = front.next, back.next, front
+            # reposition front and back
+            back, front = front.next, front.next.next
+            if front is None:
+                break
+            front = front.next
+        return result
 
 
-# arr = [1, 2, 3]
-# l1 = ListNode().arr2list(arr)
-# l1 = l1.appendleft(4)
-# l1 = l1.append(7)
-# print(l1, l1.size())
-# l1 = l1.remove_nth_from_end(0)
-# print(l1)
-# print(l1, l1.size())
-
-# arr = l1.list2arr()
-# print(arr)
+# for i in range(1, 7):
+#     l = ListNode().arr2list([x for x in range(i)])
+#     l = l.swap_pairs()
+#     print(l)
