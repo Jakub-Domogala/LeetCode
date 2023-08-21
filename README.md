@@ -14,8 +14,6 @@
   - [0020. Valid Parentheses.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0020.%20Valid%20Parentheses.py)
   - [0021. Merge Two Sorted Lists.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0021.%20Merge%20Two%20Sorted%20Lists.py)
   - [0121. Best Time To Buy and Sell Stock.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0121.%20Best%20Time%20To%20Buy%20and%20Sell%20Stock.py)
-  - utilities
-    - [ListNode.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/utilities/ListNode.py)
 - 2.medium
   - [0002. Add Two Numbers.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0002.%20Add%20Two%20Numbers.py)
   - [0003. Longest Substring Without Repeating Characters.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0003.%20Longest%20Substring%20Without%20Repeating%20Characters.py)
@@ -34,14 +32,13 @@
   - [0024. Swap Nodes in Pairs.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0024.%20Swap%20Nodes%20in%20Pairs.py)
   - [0031. Next Permutation.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0031.%20Next%20Permutation.py)
   - [1291. Sequential Digits.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/1291.%20Sequential%20Digits.py)
-  - utilities
-    - [ListNode.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/utilities/ListNode.py)
 - 3.hard
   - [0233. Number of Digit One.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0233.%20Number%20of%20Digit%20One.py)
   - [0239. Sliding Window Maximum.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0239.%20Sliding%20Window%20Maximum.py)
 - coverage
-- utilities
 
+--- 
+#### 26 solutions in total
 --- 
 ### Note
 

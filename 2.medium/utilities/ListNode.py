@@ -122,9 +122,9 @@ class ListNode(object):
     
 
 
-l = ListNode().arr2list([x for x in range(5)])
-print(l)
-l.make_cycle(2)
-print(l.size_cyclic())
-# l = l.swap_pairs()
-print(l)
+# l = ListNode().arr2list([x for x in range(5)])
+# print(l)
+# l.make_cycle(2)
+# print(l.size_cyclic())
+# # l = l.swap_pairs()
+# print(l)
