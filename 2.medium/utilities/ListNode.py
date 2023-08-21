@@ -104,7 +104,7 @@ class ListNode(object):
         end.next = dest
         return self
 
-    def size_cyclic(self):
+    def size_cyclic(self) -> int:
         if not self.is_cyclic():
             return None
         back = self
