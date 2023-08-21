@@ -1,5 +1,11 @@
+# Time Complexity:   O(n)
+# Memory Complexity: O(1)
+
+from typing import List
+
+
 class Solution(object):
-    def removeElement(self, nums, val):
+    def removeElement(self, nums: List[i], val: int) -> int:
         deleted_count = 0
         last_none_idx = None
         # delete

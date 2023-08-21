@@ -1,5 +1,5 @@
 # Time Complexity:   O(n)
-# Memory Complexity: O(n)
+# Memory Complexity: O(1)
 # Where n is max(len(list1), len(list2))
 
 from typing import Optional
