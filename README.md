@@ -32,6 +32,7 @@
   - [0019. Remove Nth Node From End of List.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0019.%20Remove%20Nth%20Node%20From%20End%20of%20List.py)
   - [0022. Generate Parentheses.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0022.%20Generate%20Parentheses.py)
   - [0024. Swap Nodes in Pairs.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0024.%20Swap%20Nodes%20in%20Pairs.py)
+  - [0031. Next Permutation.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0031.%20Next%20Permutation.py)
   - [1291. Sequential Digits.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/1291.%20Sequential%20Digits.py)
   - utilities
     - [ListNode.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/utilities/ListNode.py)
