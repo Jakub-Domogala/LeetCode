@@ -6,13 +6,17 @@ class ListNode(object):
         self.next: Type["ListNode"] = next
     
     def __str__(self) -> str:
-        jumper = self
-        result = ''
-        while jumper is not None:
-            result += str(jumper.val) + " -> "
-            jumper = jumper.next
-        return result
-    
+        sep = ' -> '
+        if not self.is_cyclic():
+            jumper = self
+            result = ''
+            while jumper is not None:
+                result += str(jumper.val) + sep
+                jumper = jumper.next
+            return result
+        return 'cyclic TODO: printing'
+
+
     def arr2list(self, arr: List) -> Type["ListNode"]:
         result = None
         for v in arr[::-1]:
@@ -39,7 +43,7 @@ class ListNode(object):
     
     def remove_nth(self, n: int) -> Type["ListNode"]:
         if self.size() <= n or n < 0:
-            return False
+            return None
         if n == 0:
             return self.next
         jumper = self
@@ -73,8 +77,54 @@ class ListNode(object):
             front = front.next
         return result
 
+    def get_node(self, idx: int) -> Type["ListNode"]:
+        result, i = self, 0
+        while result:
+            if i == idx:
+                return result
+            result = result.next
+            i += 1
+        return None
 
-# for i in range(1, 7):
-#     l = ListNode().arr2list([x for x in range(i)])
-#     l = l.swap_pairs()
-#     print(l)
+    def is_cyclic(self) -> bool:
+        back = self
+        front = self.next
+        while front and front.next:
+            front = front.next.next
+            back = back.next
+            if back == front:
+                return True
+        return False
+    
+    def make_cycle(self, dest_idx: int) -> Type["ListNode"]:
+        if dest_idx >= self.size():
+            return False
+        end = self.get_node(self.size() - 1)
+        dest = self.get_node(dest_idx)
+        end.next = dest
+        return self
+
+    def size_cyclic(self):
+        if not self.is_cyclic():
+            return None
+        back = self
+        front = self.next
+        while back != front:
+            back, front = back.next, front.next.next
+        i = 1
+        while back != front.next:
+            front = front.next
+            i += 1
+        return i
+    
+        
+
+    
+
+
+l = ListNode().arr2list([x for x in range(5)])
+print(l)
+l.make_cycle(2)
+print(l.size_cyclic())
+# l = l.swap_pairs()
+print(l)
