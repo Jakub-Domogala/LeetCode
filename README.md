@@ -35,14 +35,16 @@
   - [0024. Swap Nodes in Pairs.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0024.%20Swap%20Nodes%20in%20Pairs.py)
   - [0031. Next Permutation.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0031.%20Next%20Permutation.py)
   - [0033. Search in Rotated Sorted Array.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0033.%20Search%20in%20Rotated%20Sorted%20Array.py)
+  - [0034. Find First and Last Position of Element in Sorted Array.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0034.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.py)
   - [1291. Sequential Digits.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/1291.%20Sequential%20Digits.py)
+  - [tempCodeRunnerFile.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/tempCodeRunnerFile.py)
 - 3.hard
   - [0233. Number of Digit One.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0233.%20Number%20of%20Digit%20One.py)
   - [0239. Sliding Window Maximum.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0239.%20Sliding%20Window%20Maximum.py)
 - coverage
 
 --- 
-#### 30 solutions in total
+#### 31 solutions in total
 --- 
 ### Note
 
