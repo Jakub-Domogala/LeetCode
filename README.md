@@ -40,6 +40,7 @@
   - [0038. Count and Say.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0038.%20Count%20and%20Say.py)
   - [0039. Combination Sum.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0039.%20Combination%20Sum.py)
   - [0040. Combination Sum II.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0040.%20Combination%20Sum%20II.py)
+  - [0043. Multiply Strings.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0043.%20Multiply%20Strings.py)
   - [1291. Sequential Digits.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/1291.%20Sequential%20Digits.py)
   - [tempCodeRunnerFile.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/tempCodeRunnerFile.py)
 - 3.hard
@@ -49,7 +50,7 @@
 - [tempCodeRunnerFile.py](https://github.com/Jakub-Domogala/LeetCode/blob/master//tempCodeRunnerFile.py)
 
 --- 
-#### 35 solutions in total
+#### 36 solutions in total
 --- 
 ### Note
 
