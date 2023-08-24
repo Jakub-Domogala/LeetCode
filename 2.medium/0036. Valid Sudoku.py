@@ -1,6 +1,6 @@
 # Time Complexity:   O(n^2)
 # Memory Complexity: O(n^2)
-# Where n is length of side (default 9)
+# Where n is length of side (default 9 for standard 9x9 sudoku)
 
 from collections import defaultdict
 from typing import List, Dict
