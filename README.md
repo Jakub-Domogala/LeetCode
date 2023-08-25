@@ -16,6 +16,7 @@
   - [0026. Remove Duplicates from Sorted Array.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0026.%20Remove%20Duplicates%20from%20Sorted%20Array.py)
   - [0027. Remove Element.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0027.%20Remove%20Element.py)
   - [0028. Find the Index of the First Occurrence in a String.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0028.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.py)
+  - [0067. Add Binary.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0067.%20Add%20Binary.py)
   - [0121. Best Time To Buy and Sell Stock.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0121.%20Best%20Time%20To%20Buy%20and%20Sell%20Stock.py)
 - 2.medium
   - [0002. Add Two Numbers.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0002.%20Add%20Two%20Numbers.py)
@@ -50,7 +51,7 @@
 - [tempCodeRunnerFile.py](https://github.com/Jakub-Domogala/LeetCode/blob/master//tempCodeRunnerFile.py)
 
 --- 
-#### 36 solutions in total
+#### 37 solutions in total
 --- 
 ### Note
 
