@@ -117,6 +117,9 @@ class ListNode(object):
             i += 1
         return i
     
+    # def remove_duplicates_from_sorted(self) -> Type["ListNode"]:
+
+    
         
 
     
