@@ -24,4 +24,4 @@ class Solution(object):
         return fib_memorized()
         
 
-print(Solution().climbStairs(50))
+# print(Solution().climbStairs(50))
