@@ -43,15 +43,15 @@
   - [0040. Combination Sum II.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0040.%20Combination%20Sum%20II.py)
   - [0043. Multiply Strings.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0043.%20Multiply%20Strings.py)
   - [1291. Sequential Digits.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/1291.%20Sequential%20Digits.py)
-  - [tempCodeRunnerFile.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/tempCodeRunnerFile.py)
 - 3.hard
+  - [0004. Median of Two Sorted Arrays.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0004.%20Median%20of%20Two%20Sorted%20Arrays.py)
   - [0233. Number of Digit One.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0233.%20Number%20of%20Digit%20One.py)
   - [0239. Sliding Window Maximum.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0239.%20Sliding%20Window%20Maximum.py)
 - coverage
 - [tempCodeRunnerFile.py](https://github.com/Jakub-Domogala/LeetCode/blob/master//tempCodeRunnerFile.py)
 
 --- 
-#### 37 solutions in total
+#### 38 solutions in total
 --- 
 ### Note
 
