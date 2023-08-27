@@ -17,6 +17,7 @@
   - [0027. Remove Element.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0027.%20Remove%20Element.py)
   - [0028. Find the Index of the First Occurrence in a String.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0028.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.py)
   - [0035. Search Insert Position.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0035.%20Search%20Insert%20Position.py)
+  - [0058. Length of Last Word.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0058.%20Length%20of%20Last%20Word.py)
   - [0067. Add Binary.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0067.%20Add%20Binary.py)
   - [0121. Best Time To Buy and Sell Stock.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0121.%20Best%20Time%20To%20Buy%20and%20Sell%20Stock.py)
 - 2.medium
@@ -52,7 +53,7 @@
 - [tempCodeRunnerFile.py](https://github.com/Jakub-Domogala/LeetCode/blob/master//tempCodeRunnerFile.py)
 
 --- 
-#### 39 solutions in total
+#### 40 solutions in total
 --- 
 ### Note
 
