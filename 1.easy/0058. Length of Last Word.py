@@ -3,7 +3,7 @@
 
 class Solution(object):
     def lengthOfLastWord(self, s: str) -> int:
-        # return len(s.split()[-1])
+        # return len(s.split()[-1]) # this has worse memory complexity O(n)
         n = len(s)
         index = n - 1
         while index >= 0 and s[index] == " ":
