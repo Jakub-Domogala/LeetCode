@@ -22,6 +22,7 @@
   - [0067. Add Binary.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0067.%20Add%20Binary.py)
   - [0069. Sqrt(x).py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0069.%20Sqrt%28x%29.py)
   - [0070. Climbing Stairs.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0070.%20Climbing%20Stairs.py)
+  - [0083. Remove Duplicates from Sorted List.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0083.%20Remove%20Duplicates%20from%20Sorted%20List.py)
   - [0121. Best Time To Buy and Sell Stock.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0121.%20Best%20Time%20To%20Buy%20and%20Sell%20Stock.py)
 - 2.medium
   - [0002. Add Two Numbers.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0002.%20Add%20Two%20Numbers.py)
@@ -58,7 +59,7 @@
 - [tempCodeRunnerFile.py](https://github.com/Jakub-Domogala/LeetCode/blob/master//tempCodeRunnerFile.py)
 
 --- 
-#### 43 solutions in total
+#### 44 solutions in total
 --- 
 ### Note
 
