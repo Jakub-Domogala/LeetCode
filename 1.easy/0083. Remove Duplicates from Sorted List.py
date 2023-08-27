@@ -9,7 +9,6 @@ class Solution(object):
         if head is None or head.next is None:
             return head
         back = head
-        result = back
         front = head
         while front.next:
             front = front.next

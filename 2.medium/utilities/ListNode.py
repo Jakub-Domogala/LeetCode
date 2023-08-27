@@ -117,6 +117,20 @@ class ListNode(object):
             i += 1
         return i
     
+    def remove_duplicates_from_sorted(self) -> Type["ListNode"]:
+        if self is None or self.next is None:
+            return self
+        back = self
+        front = self
+        while front.next:
+            front = front.next
+            if back.val == front.val:
+                back.next = front.next
+            else:
+                back = front
+        return self
+
+    
         
 
     
@@ -128,3 +142,10 @@ class ListNode(object):
 # print(l.size_cyclic())
 # # l = l.swap_pairs()
 # print(l)
+
+# arr = [1,1,2,2,3,4,5,5]
+# lst = ListNode().arr2list(arr)
+# print(lst)
+# lst.remove_duplicates_from_sorted()
+# print(lst)
+
