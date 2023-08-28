@@ -14,7 +14,7 @@ class ListNode(object):
                 result += str(jumper.val) + sep
                 jumper = jumper.next
             return result
-        return 'cyclic TODO: printing'
+        return 'TODO: cyclic printing'
 
 
     def arr2list(self, arr: List) -> Type["ListNode"]:
