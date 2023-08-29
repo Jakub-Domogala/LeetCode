@@ -70,8 +70,6 @@ This repository contains
   - [0239. Sliding Window Maximum.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0239.%20Sliding%20Window%20Maximum.py)
 - algorithms
   - [binary_search.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/algorithms/binary_search.py)
-- coverage
-- [tempCodeRunnerFile.py](https://github.com/Jakub-Domogala/LeetCode/blob/master//tempCodeRunnerFile.py)
 - utilities
   - [FileCounter.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/utilities/FileCounter.py)
 
