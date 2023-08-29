@@ -38,7 +38,7 @@ class TreeNode(object):
     def arr2tree(self, arr: List[int]) -> Type["TreeNode"]:
         n = len(arr)
         def dive_fill_tree(idx: int = 0):
-            if idx > n - 1:
+            if idx > n - 1 or arr[idx] is None:
                 return None
             return TreeNode(arr[idx], dive_fill_tree(2*idx + 1), dive_fill_tree(2*idx + 2))
         return dive_fill_tree()
