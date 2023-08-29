@@ -25,6 +25,9 @@
   - [0083. Remove Duplicates from Sorted List.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0083.%20Remove%20Duplicates%20from%20Sorted%20List.py)
   - [0088. Merge Sorted Array.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0088.%20Merge%20Sorted%20Array.py)
   - [0121. Best Time To Buy and Sell Stock.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0121.%20Best%20Time%20To%20Buy%20and%20Sell%20Stock.py)
+  - utilities
+    - [ListNode.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/utilities/ListNode.py)
+    - [TreeNode.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/utilities/TreeNode.py)
 - 2.medium
   - [0002. Add Two Numbers.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0002.%20Add%20Two%20Numbers.py)
   - [0003. Longest Substring Without Repeating Characters.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0003.%20Longest%20Substring%20Without%20Repeating%20Characters.py)
@@ -50,6 +53,8 @@
   - [0040. Combination Sum II.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0040.%20Combination%20Sum%20II.py)
   - [0043. Multiply Strings.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0043.%20Multiply%20Strings.py)
   - [1291. Sequential Digits.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/1291.%20Sequential%20Digits.py)
+  - utilities
+    - [ListNode.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/utilities/ListNode.py)
 - 3.hard
   - [0004. Median of Two Sorted Arrays.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0004.%20Median%20of%20Two%20Sorted%20Arrays.py)
   - [0233. Number of Digit One.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0233.%20Number%20of%20Digit%20One.py)
@@ -58,6 +63,8 @@
   - [binary_search.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/algorithms/binary_search.py)
 - coverage
 - [tempCodeRunnerFile.py](https://github.com/Jakub-Domogala/LeetCode/blob/master//tempCodeRunnerFile.py)
+- utilities
+  - [FileCounter.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/utilities/FileCounter.py)
 
 --- 
 #### 45 solutions in total
