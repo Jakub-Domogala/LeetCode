@@ -32,6 +32,7 @@ This repository contains
   - [0094. Binary Tree Inorder Traversal.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0094.%20Binary%20Tree%20Inorder%20Traversal.py)
   - [0100. Same Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0100.%20Same%20Tree.py)
   - [0101. Symmetric Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0101.%20Symmetric%20Tree.py)
+  - [0104. Maximum Depth of Binary Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0104.%20Maximum%20Depth%20of%20Binary%20Tree.py)
   - [0121. Best Time To Buy and Sell Stock.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0121.%20Best%20Time%20To%20Buy%20and%20Sell%20Stock.py)
   - utilities
     - [ListNode.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/utilities/ListNode.py)
@@ -75,7 +76,7 @@ This repository contains
   - [FileCounter.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/utilities/FileCounter.py)
 
 --- 
-#### 48 solutions in total
+#### 49 solutions in total
 --- 
 ### Note
 
