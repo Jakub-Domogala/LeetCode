@@ -14,8 +14,8 @@ class Solution(object):
         return travel(root)
 
 
-root = [1,None,2,None,None,3]
-root = TreeNode().arr2tree(root)
-print(root.tree2arr())
-print(root)
-print(Solution().inorderTraversal(root))
+# root = [1,None,2,None,None,3]
+# root = TreeNode().arr2tree(root)
+# print(root.tree2arr())
+# print(root)
+# print(Solution().inorderTraversal(root))
