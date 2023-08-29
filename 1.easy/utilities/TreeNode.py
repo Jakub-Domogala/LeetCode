@@ -3,7 +3,7 @@ from math import ceil, log2, inf
 
 # All functions in this class relate to an unordered tree, elements inside aren't sorted in any way, it is simplest representation of tree
 class TreeNode(object):
-    def __init__(self, val = 0, left = None, right = None):
+    def __init__(self, val = 0, left = None, right = None) -> Type['TreeNode']:
         self.val = val
         self.left = left
         self.right = right
@@ -43,11 +43,11 @@ class TreeNode(object):
             return TreeNode(arr[idx], dive_fill_tree(2*idx + 1), dive_fill_tree(2*idx + 2))
         return dive_fill_tree()
     
-    def arr_of_arr2tree(self, arr_of_arr: List[int]):
+    def arr_of_arr2tree(self, arr_of_arr: List[int]) -> Type['TreeNode']:
         return self.arr2tree([elem for arr in arr_of_arr for elem in arr])
         
 
-    def tree2arr(self, cut_ending: bool = False):
+    def tree2arr(self, cut_ending: bool = False) -> List[int]:
         n = 2 ** self.get_depth() - 1
         arr = [None] * n
         def dive_get_tree(node: Type["TreeNode"] = self, idx: int = 0):
@@ -59,11 +59,20 @@ class TreeNode(object):
         dive_get_tree()
         return arr[:[i for i, x in enumerate(arr) if x][-1] + 1] if cut_ending else arr
     
-    def tree2arr_of_arr(self, cut_ending: bool = False):
+    def tree2arr_of_arr(self, cut_ending: bool = False) -> List[List[int]]:
         lst = self.tree2arr(cut_ending)
         return [lst[int(2**(j)-1):int(2**(j+1)-1)] for j in range(ceil(log2(len(lst) + 1)))]
 
-# arr = [-10,1,2,3,4]
+    def isSymmetric(self):
+        def dive(left, right):
+            if not left and not right:
+                return True
+            if not left or not right or left.val != right.val:
+                return False
+            return dive(left.left, right.right) and dive(left.right, right.left)
+        return dive(self.left, self.right)
+
+# arr = [1,2,2,3,4,4,3]
 # tree = TreeNode().arr2tree(arr)
 
 # print('tree2arr\n', tree.tree2arr(True))
@@ -74,4 +83,6 @@ class TreeNode(object):
 # print('get_sum\n', tree.get_sum())
 # print('get_min\n', tree.get_min())
 # print('get_max\n', tree.get_max())
+# print('isSymmetric\n', tree.isSymmetric())
+
         
