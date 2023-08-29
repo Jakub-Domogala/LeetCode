@@ -8,7 +8,7 @@ repo_branch = "master"
 repo_base_url = f"https://github.com/{repo_owner}/{repo_name}/blob/{repo_branch}"
 
 file_extensions_included = [".py"]
-files_excluded = ["readme_generator.py", "test.py", "__pycache__"]
+files_excluded = ["readme_generator.py", "test.py", "__pycache__", "coverage", "tempCodeRunnerFile.py"]
 
 input_before = os.path.join("utilities", "readme_beginning.md")
 input_after = os.path.join("utilities", "readme_ending.md")
