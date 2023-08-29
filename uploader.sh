@@ -10,5 +10,5 @@ python utilities/readme_generator.py
 git checkout master
 git pull
 git add .
-git commit -m "Readme Updated for commit: $1 at $(date +"%H:%M:%S %Y-%m-%d")"
+git commit -m "$1: Readme Updated at $(date +"%H:%M:%S %Y-%m-%d")"
 git push

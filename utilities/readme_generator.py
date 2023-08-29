@@ -51,10 +51,6 @@ def get_file_content(filename):
 
 with open(output_file, "w") as f:
     f.write(get_file_content(input_before) + "\n")
-    f.write("# LeetCode\n\n")
-    f.write(
-        "![ghost-white](https://github.com/Jakub-Domogala/LeetCode/assets/78169141/46417268-208f-438b-8670-85166ac484b5) \n"
-    )
     f.write("\n")
     f.write("\n\n")
     f.write("## Table of Contents\n")
