@@ -62,9 +62,12 @@ This repository contains
   - [0039. Combination Sum.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0039.%20Combination%20Sum.py)
   - [0040. Combination Sum II.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0040.%20Combination%20Sum%20II.py)
   - [0043. Multiply Strings.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0043.%20Multiply%20Strings.py)
+  - [0095. Unique Binary Search Trees II.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0095.%20Unique%20Binary%20Search%20Trees%20II.py)
+  - [0096. Unique Binary Search Trees.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0096.%20Unique%20Binary%20Search%20Trees.py)
   - [1291. Sequential Digits.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/1291.%20Sequential%20Digits.py)
   - utilities
     - [ListNode.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/utilities/ListNode.py)
+    - [TreeNode.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/utilities/TreeNode.py)
 - 3.hard
   - [0004. Median of Two Sorted Arrays.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0004.%20Median%20of%20Two%20Sorted%20Arrays.py)
   - [0233. Number of Digit One.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0233.%20Number%20of%20Digit%20One.py)
@@ -75,7 +78,7 @@ This repository contains
   - [FileCounter.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/utilities/FileCounter.py)
 
 --- 
-#### 50 solutions in total
+#### 52 solutions in total
 --- 
 ### Note
 
