@@ -64,6 +64,7 @@ This repository contains
   - [0043. Multiply Strings.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0043.%20Multiply%20Strings.py)
   - [0095. Unique Binary Search Trees II.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0095.%20Unique%20Binary%20Search%20Trees%20II.py)
   - [0096. Unique Binary Search Trees.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0096.%20Unique%20Binary%20Search%20Trees.py)
+  - [0098. Validate Binary Search Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0098.%20Validate%20Binary%20Search%20Tree.py)
   - [1291. Sequential Digits.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/1291.%20Sequential%20Digits.py)
   - utilities
     - [ListNode.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/utilities/ListNode.py)
@@ -78,7 +79,7 @@ This repository contains
   - [FileCounter.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/utilities/FileCounter.py)
 
 --- 
-#### 52 solutions in total
+#### 53 solutions in total
 --- 
 ### Note
 
