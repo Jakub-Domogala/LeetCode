@@ -35,6 +35,7 @@ This repository contains
   - [0104. Maximum Depth of Binary Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0104.%20Maximum%20Depth%20of%20Binary%20Tree.py)
   - [0108. Convert Sorted Array to Binary Search Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.py)
   - [0110. Balanced Binary Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0110.%20Balanced%20Binary%20Tree.py)
+  - [0111. Minimum Depth of Binary Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0111.%20Minimum%20Depth%20of%20Binary%20Tree.py)
   - [0121. Best Time To Buy and Sell Stock.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0121.%20Best%20Time%20To%20Buy%20and%20Sell%20Stock.py)
   - utilities
     - [ListNode.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/utilities/ListNode.py)
@@ -80,7 +81,7 @@ This repository contains
   - [FileCounter.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/utilities/FileCounter.py)
 
 --- 
-#### 54 solutions in total
+#### 55 solutions in total
 --- 
 ### Note
 
