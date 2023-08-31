@@ -1,21 +1,21 @@
 from typing import Any, Type, List
 
+
 class ListNode(object):
     def __init__(self, val: Any = 0, next: Type["ListNode"] = None) -> Type["ListNode"]:
         self.val: Any = val
         self.next: Type["ListNode"] = next
-    
+
     def __str__(self) -> str:
-        sep = ' -> '
+        sep = " -> "
         if not self.is_cyclic():
             jumper = self
-            result = ''
+            result = ""
             while jumper is not None:
                 result += str(jumper.val) + sep
                 jumper = jumper.next
             return result
-        return 'TODO: cyclic printing'
-
+        return "TODO: cyclic printing"
 
     def arr2list(self, arr: List) -> Type["ListNode"]:
         result = None
@@ -40,14 +40,14 @@ class ListNode(object):
             jumper = jumper.next
         jumper.next = ListNode(element)
         return self
-    
+
     def remove_nth(self, n: int) -> Type["ListNode"]:
         if self.size() <= n or n < 0:
             return None
         if n == 0:
             return self.next
         jumper = self
-        for _ in range(n-1):
+        for _ in range(n - 1):
             jumper = jumper.next
         jumper.next = jumper.next.next
         return self
@@ -61,12 +61,12 @@ class ListNode(object):
             jumper = jumper.next
             result += 1
         return result
-    
+
     def swap_pairs(self) -> Type["ListNode"]:
         if not self.next:
             return self
         back = ListNode(None, self)
-        result, front= self.next, self.next
+        result, front = self.next, self.next
         while front:
             # reattach pointers
             back.next.next, front.next, back.next = front.next, back.next, front
@@ -95,7 +95,7 @@ class ListNode(object):
             if back == front:
                 return True
         return False
-    
+
     def make_cycle(self, dest_idx: int) -> Type["ListNode"]:
         if dest_idx >= self.size():
             return False
@@ -116,7 +116,7 @@ class ListNode(object):
             front = front.next
             i += 1
         return i
-    
+
     def remove_duplicates_from_sorted(self) -> Type["ListNode"]:
         if self is None or self.next is None:
             return self
@@ -129,11 +129,6 @@ class ListNode(object):
             else:
                 back = front
         return self
-
-    
-        
-
-    
 
 
 # l = ListNode().arr2list([x for x in range(5)])
@@ -148,4 +143,3 @@ class ListNode(object):
 # print(lst)
 # lst.remove_duplicates_from_sorted()
 # print(lst)
-

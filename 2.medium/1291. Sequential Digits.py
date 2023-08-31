@@ -20,13 +20,13 @@ class Solution(object):
         while previous_num <= high:
             if previous_num == low and len(result) == 0:
                 number = str(low)[0]
-            elif (log10(previous_num) + 1 >= num_len):
+            elif log10(previous_num) + 1 >= num_len:
                 number = chr(ord(str(previous_num)[0]) + 1)
             else:
-                number = '1'
+                number = "1"
             if str2dec[number[0]] + num_len > 10:
                 num_len += 1
-                number = '1'
+                number = "1"
             if num_len > 9:
                 return result
             while len(number) < num_len:

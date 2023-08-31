@@ -1,6 +1,7 @@
 # Time Complexity:   O(log(n))
 # Memory Complexity: O(1)
 
+
 class Solution(object):
     def mySqrt(self, x: int) -> int:
         left, right = 0, x
@@ -13,6 +14,7 @@ class Solution(object):
             else:
                 return mid
         return right
+
 
 # print(Solution().mySqrt(6)) # 2
 # print(Solution().mySqrt(9)) # 3

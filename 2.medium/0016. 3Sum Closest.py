@@ -7,7 +7,7 @@ from typing import List
 class Solution(object):
     def threeSumClosest(self, nums: List[int], target: int) -> int:
         nums.sort()
-        best_val = float('inf')
+        best_val = float("inf")
         for i, a in enumerate(nums):
             if i > 0 and a == nums[i - 1]:
                 continue
@@ -29,4 +29,6 @@ class Solution(object):
         return best_val
 
         # expected [[-1,-1,2],[-1,0,1]]
+
+
 # print(Solution().threeSumClosest([0, 0, 0], 1))

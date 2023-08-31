@@ -28,11 +28,12 @@ class Solution(object):
                     while nums[left] == nums[left - 1] and left < right:
                         left += 1
             return result
-        
+
         nums.sort()
         result = []
         quad = []
         kSum(k, 0, target)
         return result
+
 
 # print(Solution().fourSum([2, 2, 2, 2, 2], 8))

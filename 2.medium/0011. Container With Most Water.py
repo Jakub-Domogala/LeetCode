@@ -5,15 +5,6 @@ from typing import List
 
 
 class Solution(object):
-    # O(n^2) too much for larger examples
-    # def maxArea(self, height: List[int]) -> int:
-    #     best = 0
-    #     for i in range(len(height)):
-    #         for j in range(i+1, len(height)):
-    #             best = max(best, (j - i) * min(height[j], height[i]))
-    #     return best
-
-    # O(n) greedy algorithm
     def maxArea(self, height: List[int]) -> int:
         best = 0
         left = 0

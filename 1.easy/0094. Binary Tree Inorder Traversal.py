@@ -11,6 +11,7 @@ class Solution(object):
             if node is None:
                 return []
             return travel(node.left) + [node.val] + travel(node.right)
+
         return travel(root)
 
 

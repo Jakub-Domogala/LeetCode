@@ -1,16 +1,14 @@
 # LeetCode
 
-This repository contains 
+This repository contains
+
 - Solutions for LeetCode problems
 - Utilities Classes that help represent data-structures used in solutions
 
 ![ghost-white](https://github.com/Jakub-Domogala/LeetCode/assets/78169141/46417268-208f-438b-8670-85166ac484b5)
 
-
-
-
-
 ## Table of Contents
+
 - 1.easy
   - [0001. Two Sum.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0001.%20Two%20Sum.py)
   - [0009. Palindrome Number.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0009.%20Palindrome%20Number.py)
@@ -80,9 +78,12 @@ This repository contains
 - utilities
   - [FileCounter.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/utilities/FileCounter.py)
 
---- 
+---
+
 #### 55 solutions in total
---- 
+
+---
+
 ### Note
 
 <div style="border: 1px solid black; padding: 10px; border-radius: 2px; background-color: rgba(245, 245, 245, 0.2);">
@@ -90,4 +91,5 @@ Files in this repository are not prepared to be used on LeetCode website, if you
 </div>
 
 ---
+
 Aditional `utilities` classes and `algorithms` are added as they become useful for solutions

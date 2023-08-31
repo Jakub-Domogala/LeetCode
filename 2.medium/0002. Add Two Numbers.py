@@ -2,6 +2,7 @@
 # Memory Complexity: O(1)
 # Where n1 and n2 are lengths of l1 and l2
 
+
 # Definition for singly-linked list.
 class ListNode(object):
     def __init__(self, val=0, next=None):

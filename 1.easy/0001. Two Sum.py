@@ -13,4 +13,5 @@ class Solution(object):
             if target - num in nums_map and i != nums_map[target - num]:
                 return [i, nums_map[target - num]]
 
+
 # print(Solution().twoSum([2,7,11,15], 9))

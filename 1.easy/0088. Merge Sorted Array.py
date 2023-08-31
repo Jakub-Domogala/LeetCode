@@ -17,7 +17,8 @@ class Solution(object):
                 nums1[idx] = nums2[i2]
                 i2 -= 1
             idx -= 1
-        
+
+
 # a, b = [1,2,3,0,0,0], [2,5,6]
 # Solution().merge(a, 3, b, 3)
 # print(a)

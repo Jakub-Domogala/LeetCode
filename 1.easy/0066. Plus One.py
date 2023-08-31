@@ -10,9 +10,16 @@ class Solution(object):
 
         index = len(digits) - 1
         while index > 0 and digits[index] > 9:
-            digits[index-1], digits[index] = digits[index-1] + digits[index]//10, digits[index]%10
+            digits[index - 1], digits[index] = (
+                digits[index - 1] + digits[index] // 10,
+                digits[index] % 10,
+            )
             index -= 1
-        return digits if digits[0] < 10 else [digits[0]//10] + [digits[0]%10] + digits[1:]
+        return (
+            digits
+            if digits[0] < 10
+            else [digits[0] // 10] + [digits[0] % 10] + digits[1:]
+        )
 
 
 # arr = [9]

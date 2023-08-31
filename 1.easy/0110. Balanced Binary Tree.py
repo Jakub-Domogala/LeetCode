@@ -10,7 +10,12 @@ class Solution(object):
             if node is None:
                 return 0
             left, right = get_max_depth(node.left), get_max_depth(node.right)
-            return None if (left is None or right is None or abs(left - right) > 1) else max(left, right) + 1
+            return (
+                None
+                if (left is None or right is None or abs(left - right) > 1)
+                else max(left, right) + 1
+            )
+
         return get_max_depth(root) is not None
 
 

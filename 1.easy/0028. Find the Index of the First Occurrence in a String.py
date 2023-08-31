@@ -1,6 +1,7 @@
 # Time Complexity:   O(n^2)
 # Memory Complexity: O(1)
 
+
 class Solution(object):
     def strStr(self, haystack: str, needle: str) -> int:
         # return haystack.find(needle)
@@ -11,6 +12,7 @@ class Solution(object):
                         break
                     if j == len(needle) - 1:
                         return i
-        return - 1
+        return -1
+
 
 # print(Solution().strStr("sadbutsad", "sad"))

@@ -16,7 +16,7 @@ class Solution(object):
             que.append(i)
 
         def pop_out_of_window():
-            while que and que[0] <= i-k:
+            while que and que[0] <= i - k:
                 que.popleft()
 
         def append_result():

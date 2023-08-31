@@ -22,6 +22,7 @@ class Solution(object):
                 last_none_idx += 1
         return len(nums) - deleted_count
 
+
 # arr = [0,1,2,2,3,0,4,2]
 # print(Solution().removeElement(arr, 2))
 # print(arr)

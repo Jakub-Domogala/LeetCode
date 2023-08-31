@@ -8,7 +8,13 @@ repo_branch = "master"
 repo_base_url = f"https://github.com/{repo_owner}/{repo_name}/blob/{repo_branch}"
 
 file_extensions_included = [".py"]
-files_excluded = ["readme_generator.py", "test.py", "__pycache__", "coverage", "tempCodeRunnerFile.py"]
+files_excluded = [
+    "readme_generator.py",
+    "test.py",
+    "__pycache__",
+    "coverage",
+    "tempCodeRunnerFile.py",
+]
 
 input_before = os.path.join("utilities", "readme_beginning.md")
 input_after = os.path.join("utilities", "readme_ending.md")
@@ -56,6 +62,8 @@ with open(output_file, "w") as f:
     f.write("## Table of Contents\n")
     file_links = generate_file_links()
     f.write(file_links + "\n--- \n")
-    f.write('#### ' + str(FileCounter().count_files_with_pattern()) + ' solutions in total')
+    f.write(
+        "#### " + str(FileCounter().count_files_with_pattern()) + " solutions in total"
+    )
     f.write("\n--- \n")
     f.write(get_file_content(input_after))

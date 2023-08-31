@@ -11,6 +11,7 @@ class Solution(object):
             if node is None:
                 return 0
             return max(get_depth(node.left), get_depth(node.right)) + 1
+
         return get_depth(root)
 
 

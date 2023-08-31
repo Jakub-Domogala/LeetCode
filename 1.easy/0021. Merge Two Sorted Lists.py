@@ -5,8 +5,11 @@
 from typing import Optional
 from utilities.ListNode import ListNode
 
+
 class Solution(object):
-    def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
+    def mergeTwoLists(
+        self, list1: Optional[ListNode], list2: Optional[ListNode]
+    ) -> Optional[ListNode]:
         if list1 is None:
             return list2
         if list2 is None:
@@ -29,6 +32,7 @@ class Solution(object):
                 jr.next = j2
                 j2 = j2.next
             jr = jr.next
+
 
 # l1 = ListNode().arr2list([1,3,5])
 # l2 = ListNode().arr2list([2,2,3])

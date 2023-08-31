@@ -7,7 +7,7 @@ from typing import List
 class Solution(object):
     def searchRange(self, nums: List[int], target: int) -> int:
         def binary_search_furthest(target, is_left):
-            back, front= 0, len(nums)-1
+            back, front = 0, len(nums) - 1
             idx = -1
             while back <= front:
                 pivot = (back + front) // 2
@@ -22,6 +22,7 @@ class Solution(object):
                     else:
                         back = pivot + 1
             return idx
+
         back = binary_search_furthest(target, True)
         front = binary_search_furthest(target, False)
         return [back, front]

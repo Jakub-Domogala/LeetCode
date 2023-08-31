@@ -18,15 +18,10 @@ class Solution(object):
                 back = front
         return head
 
+
 # arr = [1,1,2,2,3,4,5,5]
 # lst = ListNode().arr2list(arr)
 # print(lst)
 # # lst = Solution().deleteDuplicates(lst)
 # Solution().deleteDuplicates(lst)
 # print(lst)
-
-
-    
-                    
-            
-            

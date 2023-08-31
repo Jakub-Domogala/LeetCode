@@ -14,14 +14,16 @@ class Solution(object):
 
     def climbStairs(self, n: int) -> int:
         memorize = [None] * (n + 1)
-        def fib_memorized(to_go = n):
+
+        def fib_memorized(to_go=n):
             if memorize[to_go]:
                 return memorize[to_go]
             if to_go <= 1:
                 return 1
-            memorize[to_go] = fib_memorized(to_go-1) + fib_memorized(to_go-2)
+            memorize[to_go] = fib_memorized(to_go - 1) + fib_memorized(to_go - 2)
             return memorize[to_go]
+
         return fib_memorized()
-        
+
 
 # print(Solution().climbStairs(50))
