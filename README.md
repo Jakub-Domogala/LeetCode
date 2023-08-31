@@ -78,7 +78,6 @@ This repository contains
 - algorithms
   - [binary_search.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/algorithms/binary_search.py)
 - utilities
-  - [FileCounter.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/utilities/FileCounter.py)
 
 --- 
 #### 55 solutions in total
