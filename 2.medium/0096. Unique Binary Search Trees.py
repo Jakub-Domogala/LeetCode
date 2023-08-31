@@ -1,4 +1,4 @@
-# Time Complexity:   O(n)
+# Time Complexity:   O(n^2)
 # Memory Complexity: O(n)
 
 class Solution(object):
