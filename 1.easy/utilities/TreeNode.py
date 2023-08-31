@@ -71,6 +71,15 @@ class TreeNode(object):
                 return False
             return dive(left.left, right.right) and dive(left.right, right.left)
         return dive(self.left, self.right)
+    
+    def isValidBST(self):
+        def isValid(root = self, min_val = float('-infinity'), max_val = float('infinity')):
+            if not root:
+                return True
+            return (min_val < root.val < max_val          and 
+                    isValid(root.left, min_val, root.val) and 
+                    isValid(root.right, root.val, max_val))
+        return isValid()
 
 # arr = [1,2,2,3,4,4,3]
 # tree = TreeNode().arr2tree(arr)
@@ -84,5 +93,6 @@ class TreeNode(object):
 # print('get_min\n', tree.get_min())
 # print('get_max\n', tree.get_max())
 # print('isSymmetric\n', tree.isSymmetric())
+# print('isValidBST\n', tree.isValidBST())
 
         
