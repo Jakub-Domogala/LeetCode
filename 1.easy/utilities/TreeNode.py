@@ -84,19 +84,19 @@ class TreeNode(object):
                     isValid(root.right, root.val, max_val))
         return isValid()
 
-arr = [1,2,2,3,4]
-tree = TreeNode().arr2tree(arr)
+# arr = [1,2,2,3,4]
+# tree = TreeNode().arr2tree(arr)
 
-print('tree2arr\n', tree.tree2arr(True))
-print('tree2arr_of_arr\n', tree.tree2arr_of_arr(True))
-print('tree __str__\n', tree)
-print('get_max_depth\n', tree.get_max_depth())
-print('get_min_depth\n', tree.get_min_depth())
-print('get_count\n', tree.get_count())
-print('get_sum\n', tree.get_sum())
-print('get_min_val\n', tree.get_min_val())
-print('get_max_val\n', tree.get_max_val())
-print('isSymmetric\n', tree.isSymmetric())
-print('isValidBST\n', tree.isValidBST())
+# print('tree2arr\n', tree.tree2arr(True))
+# print('tree2arr_of_arr\n', tree.tree2arr_of_arr(True))
+# print('tree __str__\n', tree)
+# print('get_max_depth\n', tree.get_max_depth())
+# print('get_min_depth\n', tree.get_min_depth())
+# print('get_count\n', tree.get_count())
+# print('get_sum\n', tree.get_sum())
+# print('get_min_val\n', tree.get_min_val())
+# print('get_max_val\n', tree.get_max_val())
+# print('isSymmetric\n', tree.isSymmetric())
+# print('isValidBST\n', tree.isValidBST())
 
         
