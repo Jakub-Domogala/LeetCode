@@ -37,6 +37,7 @@ This repository contains
   - [0110. Balanced Binary Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0110.%20Balanced%20Binary%20Tree.py)
   - [0111. Minimum Depth of Binary Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0111.%20Minimum%20Depth%20of%20Binary%20Tree.py)
   - [0121. Best Time To Buy and Sell Stock.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0121.%20Best%20Time%20To%20Buy%20and%20Sell%20Stock.py)
+  - [0217. Contains Duplicate.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0217.%20Contains%20Duplicate.py)
   - utilities
     - [ListNode.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/utilities/ListNode.py)
     - [TreeNode.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/utilities/TreeNode.py)
@@ -82,7 +83,7 @@ This repository contains
 - utilities
 
 --- 
-#### 57 solutions in total
+#### 58 solutions in total
 --- 
 ### Note
 
