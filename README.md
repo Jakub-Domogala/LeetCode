@@ -39,6 +39,7 @@ This repository contains
   - [0121. Best Time To Buy and Sell Stock.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0121.%20Best%20Time%20To%20Buy%20and%20Sell%20Stock.py)
   - [0125. Valid Palindrome.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0125.%20Valid%20Palindrome.py)
   - [0217. Contains Duplicate.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0217.%20Contains%20Duplicate.py)
+  - [0242. Valid Anagram.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0242.%20Valid%20Anagram.py)
   - utilities
     - [ListNode.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/utilities/ListNode.py)
     - [TreeNode.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/utilities/TreeNode.py)
@@ -84,7 +85,7 @@ This repository contains
 - utilities
 
 --- 
-#### 59 solutions in total
+#### 60 solutions in total
 --- 
 ### Note
 
