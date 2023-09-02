@@ -1,7 +1,10 @@
 from typing import List, Type
 
 
-# This class only understands letters and all of em are converted to lowercase
+# This class uses only lowercase letters as keys.
+# Every string is converted so that:
+#   all letters are converted to lowercase
+#   all non letter characters are removed
 class TrieNode:
     def __init__(self):
         self.children: Type["TrieNode"] = [None] * 26
