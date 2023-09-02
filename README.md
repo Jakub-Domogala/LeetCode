@@ -76,6 +76,7 @@ This repository contains
   - utilities
     - [ListNode.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/utilities/ListNode.py)
     - [TreeNode.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/utilities/TreeNode.py)
+    - [TrieNode.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/utilities/TrieNode.py)
 - 3.hard
   - [0004. Median of Two Sorted Arrays.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0004.%20Median%20of%20Two%20Sorted%20Arrays.py)
   - [0233. Number of Digit One.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0233.%20Number%20of%20Digit%20One.py)
