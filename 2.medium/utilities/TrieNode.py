@@ -1,6 +1,7 @@
 from typing import List, Type
 
 
+# This class only understands letters and all of em are converted to lowercase
 class TrieNode:
     def __init__(self):
         self.children: Type["TrieNode"] = [None] * 26
@@ -15,6 +16,7 @@ class TrieNode:
     # Time Complexity:   O(len(key))
     # Memory Complexity: O(len(key))
     def insert(self, key: str) -> None:
+        key = "".join(char for char in key.lower() if char.islower())
         jumper = self
         n = len(key)
         for level in range(n):
@@ -27,6 +29,7 @@ class TrieNode:
     # Time Complexity:   O(len(key))
     # Memory Complexity: O(1)
     def search(self, key: str) -> bool:
+        key = "".join(char for char in key.lower() if char.islower())
         jumper = self
         n = len(key)
         for level in range(n):
@@ -54,6 +57,7 @@ class TrieNode:
         return result
 
     def get_arr_from_prefix(self, prefix: str) -> List[str]:
+        prefix = "".join(char for char in prefix.lower() if char.islower())
         jumper = self
         n = len(prefix)
         for level in range(n):
@@ -67,7 +71,7 @@ class TrieNode:
 word_list = [
     "ap",
     "apple",
-    "banana",
+    "Banana",
     "apricot",
     "ball",
     "cat",
@@ -83,7 +87,6 @@ prefix = "ap"
 trie = TrieNode()
 trie.add_from_arr(word_list)
 print(trie.get_arr_of_all())
-print(trie.children)
 print(trie.search("da"))
 print(trie.search("carrot"))
 print(trie.get_arr_from_prefix(prefix))
