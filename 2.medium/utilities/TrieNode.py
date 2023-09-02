@@ -30,6 +30,27 @@ class TrieNode:
         jumper.isEndOfWord = True
 
     # Time Complexity:   O(len(key))
+    # Memory Complexity: O(len(key))
+    def delete(self, key: str) -> None:
+        key = "".join(char for char in key.lower() if char.islower())
+        n = len(key)
+
+        def dive_delete(node, idx):
+            if node is None:
+                return True
+            if idx == n:
+                node.isEndOfWord = False
+                if len([x for x in node.children if x]) == 0:
+                    return True
+                else:
+                    return False
+            if dive_delete(node.children[self._char2idx(key[idx])], idx + 1):
+                node.children[self._char2idx(key[idx])] = None
+            return len([x for x in node.children if x]) == 0 and not node.isEndOfWord
+
+        dive_delete(self, 0)
+
+    # Time Complexity:   O(len(key))
     # Memory Complexity: O(1)
     def search(self, key: str) -> bool:
         key = "".join(char for char in key.lower() if char.islower())
@@ -85,11 +106,15 @@ word_list = [
     "doghouse",
 ]
 
+# word_list = ["a", "ab", "ac", "abc"]
+
 prefix = "ap"
 
 trie = TrieNode()
 trie.add_from_arr(word_list)
-print(trie.get_arr_of_all())
 print(trie.search("da"))
 print(trie.search("carrot"))
 print(trie.get_arr_from_prefix(prefix))
+print(trie.get_arr_of_all())
+trie.delete("apple")
+print(trie.get_arr_of_all())
