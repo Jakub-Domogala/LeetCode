@@ -92,29 +92,27 @@ class TrieNode:
         return [prefix + rest for rest in jumper.get_arr_of_all()]
 
 
-word_list = [
-    "ap",
-    "apple",
-    "Banana",
-    "apricot",
-    "ball",
-    "cat",
-    "dog",
-    "apartment",
-    "bat",
-    "carrot",
-    "doghouse",
-]
+# word_list = [
+#     "ap",
+#     "apple",
+#     "Banana",
+#     "apricot",
+#     "ball",
+#     "cat",
+#     "dog",
+#     "apartment",
+#     "bat",
+#     "carrot",
+#     "doghouse",
+# ]
 
-# word_list = ["a", "ab", "ac", "abc"]
+# prefix = "ap"
 
-prefix = "ap"
-
-trie = TrieNode()
-trie.add_from_arr(word_list)
-print(trie.search("da"))
-print(trie.search("carrot"))
-print(trie.get_arr_from_prefix(prefix))
-print(trie.get_arr_of_all())
-trie.delete("apple")
-print(trie.get_arr_of_all())
+# trie = TrieNode()
+# trie.add_from_arr(word_list)
+# print(trie.search("da"))
+# print(trie.search("carrot"))
+# print(trie.get_arr_from_prefix(prefix))
+# print(trie.get_arr_of_all())
+# trie.delete("apple")
+# print(trie.get_arr_of_all())
