@@ -36,6 +36,7 @@ This repository contains
   - [0108. Convert Sorted Array to Binary Search Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.py)
   - [0110. Balanced Binary Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0110.%20Balanced%20Binary%20Tree.py)
   - [0111. Minimum Depth of Binary Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0111.%20Minimum%20Depth%20of%20Binary%20Tree.py)
+  - [0112. Path Sum.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0112.%20Path%20Sum.py)
   - [0121. Best Time To Buy and Sell Stock.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0121.%20Best%20Time%20To%20Buy%20and%20Sell%20Stock.py)
   - [0125. Valid Palindrome.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0125.%20Valid%20Palindrome.py)
   - [0217. Contains Duplicate.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0217.%20Contains%20Duplicate.py)
@@ -89,7 +90,7 @@ This repository contains
 - utilities
 
 --- 
-#### 63 solutions in total
+#### 64 solutions in total
 --- 
 ### Note
 
