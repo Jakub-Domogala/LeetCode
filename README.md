@@ -70,6 +70,7 @@ This repository contains
   - [0045. Jump Game II.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0045.%20Jump%20Game%20II.py)
   - [0046. Permutations.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0046.%20Permutations.py)
   - [0047. Permutations II.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0047.%20Permutations%20II.py)
+  - [0048. Rotate Image.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0048.%20Rotate%20Image.py)
   - [0074. Search a 2D Matrix.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0074.%20Search%20a%202D%20Matrix.py)
   - [0095. Unique Binary Search Trees II.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0095.%20Unique%20Binary%20Search%20Trees%20II.py)
   - [0096. Unique Binary Search Trees.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0096.%20Unique%20Binary%20Search%20Trees.py)
@@ -88,7 +89,7 @@ This repository contains
 - utilities
 
 --- 
-#### 62 solutions in total
+#### 63 solutions in total
 --- 
 ### Note
 
