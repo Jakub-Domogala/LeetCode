@@ -6,12 +6,16 @@ from typing import List
 
 
 class Solution(object):
-    def permute(self, nums: List[int]) -> List[List[int]]:
+    def permuteUnique(self, nums: List[int]) -> List[List[int]]:
+        nums = sorted(nums)
+
         def build_tail() -> List[List[int]]:
             if len(nums) == 0:
                 return [[]]
             result = []
             for i in range(len(nums)):
+                if i > 0 and nums[i - 1] == nums[i]:
+                    continue
                 val = nums.pop(i)
                 ending = build_tail()
                 nums.insert(i, val)
@@ -21,4 +25,4 @@ class Solution(object):
         return build_tail()
 
 
-# print(Solution().permute([1, 2, 3]))
+# print(Solution().permuteUnique([1, 1, 2]))
