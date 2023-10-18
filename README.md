@@ -42,6 +42,7 @@ This repository contains
   - [0217. Contains Duplicate.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0217.%20Contains%20Duplicate.py)
   - [0226. Invert Binary Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0226.%20Invert%20Binary%20Tree.py)
   - [0242. Valid Anagram.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0242.%20Valid%20Anagram.py)
+  - [0704. Binary Search.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0704.%20Binary%20Search.py)
   - utilities
     - [ListNode.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/utilities/ListNode.py)
     - [TreeNode.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/utilities/TreeNode.py)
@@ -92,7 +93,7 @@ This repository contains
 - utilities
 
 --- 
-#### 66 solutions in total
+#### 67 solutions in total
 --- 
 ### Note
 
