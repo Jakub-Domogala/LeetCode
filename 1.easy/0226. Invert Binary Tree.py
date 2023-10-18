@@ -1,3 +1,7 @@
+# Time Complexity:   O(n)
+# Memory Complexity: O(n)
+# where n is amount of elements in tree
+
 from utilities.TreeNode import TreeNode
 
 
