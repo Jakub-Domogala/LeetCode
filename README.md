@@ -46,6 +46,7 @@ This repository contains
   - [0242. Valid Anagram.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0242.%20Valid%20Anagram.py)
   - [0278. First Bad Version.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0278.%20First%20Bad%20Version.py)
   - [0383. Ransom Note.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0383.%20Ransom%20Note.py)
+  - [0409. Longest Palindrome.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0409.%20Longest%20Palindrome.py)
   - [0704. Binary Search.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0704.%20Binary%20Search.py)
   - [0733. Flood Fill.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0733.%20Flood%20Fill.py)
   - utilities
@@ -99,7 +100,7 @@ This repository contains
 - utilities
 
 --- 
-#### 73 solutions in total
+#### 74 solutions in total
 --- 
 ### Note
 
