@@ -40,6 +40,7 @@ This repository contains
   - [0121. Best Time To Buy and Sell Stock.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0121.%20Best%20Time%20To%20Buy%20and%20Sell%20Stock.py)
   - [0125. Valid Palindrome.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0125.%20Valid%20Palindrome.py)
   - [0141. Linked List Cycle.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0141.%20Linked%20List%20Cycle.py)
+  - [0206. Reverse Linked List.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0206.%20Reverse%20Linked%20List.py)
   - [0217. Contains Duplicate.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0217.%20Contains%20Duplicate.py)
   - [0226. Invert Binary Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0226.%20Invert%20Binary%20Tree.py)
   - [0232. Implement Queue using Stacks.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0232.%20Implement%20Queue%20using%20Stacks.py)
@@ -100,7 +101,7 @@ This repository contains
 - utilities
 
 --- 
-#### 74 solutions in total
+#### 75 solutions in total
 --- 
 ### Note
 
