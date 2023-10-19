@@ -44,6 +44,7 @@ This repository contains
   - [0226. Invert Binary Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0226.%20Invert%20Binary%20Tree.py)
   - [0232. Implement Queue using Stacks.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0232.%20Implement%20Queue%20using%20Stacks.py)
   - [0242. Valid Anagram.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0242.%20Valid%20Anagram.py)
+  - [0278. First Bad Version.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0278.%20First%20Bad%20Version.py)
   - [0704. Binary Search.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0704.%20Binary%20Search.py)
   - [0733. Flood Fill.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0733.%20Flood%20Fill.py)
   - utilities
@@ -97,7 +98,7 @@ This repository contains
 - utilities
 
 --- 
-#### 71 solutions in total
+#### 72 solutions in total
 --- 
 ### Note
 
