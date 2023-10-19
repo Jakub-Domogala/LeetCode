@@ -42,6 +42,7 @@ This repository contains
   - [0141. Linked List Cycle.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0141.%20Linked%20List%20Cycle.py)
   - [0217. Contains Duplicate.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0217.%20Contains%20Duplicate.py)
   - [0226. Invert Binary Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0226.%20Invert%20Binary%20Tree.py)
+  - [0232. Implement Queue using Stacks.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0232.%20Implement%20Queue%20using%20Stacks.py)
   - [0242. Valid Anagram.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0242.%20Valid%20Anagram.py)
   - [0704. Binary Search.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0704.%20Binary%20Search.py)
   - [0733. Flood Fill.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0733.%20Flood%20Fill.py)
@@ -96,7 +97,7 @@ This repository contains
 - utilities
 
 --- 
-#### 70 solutions in total
+#### 71 solutions in total
 --- 
 ### Note
 
