@@ -16,3 +16,9 @@ class Solution:
             prev.next = new_head
             new_head = prev
         return new_head
+
+
+# arr = [1, 2, 3, 4, 5, 6]
+# lst = ListNode().arr2list(arr)
+# print(lst)
+# print(Solution().reverseList(lst))

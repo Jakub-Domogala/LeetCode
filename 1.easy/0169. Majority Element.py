@@ -21,5 +21,5 @@ class Solution:
         return result
 
 
-nums = [2, 2, 1, 1, 1, 2, 2]
-print(Solution().majorityElement(nums))
+# nums = [2, 2, 1, 1, 1, 2, 2]
+# print(Solution().majorityElement(nums))

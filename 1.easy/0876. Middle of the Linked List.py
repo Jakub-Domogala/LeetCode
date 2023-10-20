@@ -26,7 +26,7 @@ class Solution:
         return get_nth(head, size // 2 + 1)
 
 
-arr = [1, 2, 3, 4, 5, 6]
-lst = ListNode().arr2list(arr)
-print(lst)
-print(Solution().middleNode(lst))
+# arr = [1, 2, 3, 4, 5, 6]
+# lst = ListNode().arr2list(arr)
+# print(lst)
+# print(Solution().middleNode(lst))

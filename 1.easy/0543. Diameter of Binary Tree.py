@@ -1,3 +1,6 @@
+# Time Complexity:   O(n)
+# Memory Complexity: O(log(n))
+
 from typing import Optional
 
 from utilities.TreeNode import TreeNode
@@ -15,7 +18,7 @@ class Solution:
         return longest_path(root)[0]
 
 
-lst = [1, 2, 3, 4, 5]
-tree = TreeNode().arr2tree(lst)
-print(tree)
-print(Solution().diameterOfBinaryTree(tree))
+# lst = [1, 2, 3, 4, 5]
+# tree = TreeNode().arr2tree(lst)
+# print(tree)
+# print(Solution().diameterOfBinaryTree(tree))
