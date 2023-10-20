@@ -52,6 +52,7 @@ This repository contains
   - [0543. Diameter of Binary Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0543.%20Diameter%20of%20Binary%20Tree.py)
   - [0704. Binary Search.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0704.%20Binary%20Search.py)
   - [0733. Flood Fill.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0733.%20Flood%20Fill.py)
+  - [0876. Middle of the Linked List.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0876.%20Middle%20of%20the%20Linked%20List.py)
   - utilities
     - [ListNode.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/utilities/ListNode.py)
     - [TreeNode.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/utilities/TreeNode.py)
@@ -103,7 +104,7 @@ This repository contains
 - utilities
 
 --- 
-#### 77 solutions in total
+#### 78 solutions in total
 --- 
 ### Note
 
