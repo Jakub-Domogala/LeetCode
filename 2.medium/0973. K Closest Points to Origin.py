@@ -1,3 +1,7 @@
+# Time Complexity:   O(nlog(n))
+# Memory Complexity: O(k)
+# where n is len(points). As sorted I count complexity of quicksort
+
 from typing import List
 from math import sqrt
 
