@@ -11,7 +11,6 @@ class Node:
 
 
 from typing import Optional
-from collections import defaultdict
 
 
 class Solution:
