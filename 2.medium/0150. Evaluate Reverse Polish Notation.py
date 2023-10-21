@@ -19,7 +19,6 @@ class Solution:
                 return a * b
             if operator == "/":
                 return int(a / b)
-            print("err")
 
         for t in tokens:
             if t in operators:
