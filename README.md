@@ -92,6 +92,7 @@ This repository contains
   - [0098. Validate Binary Search Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0098.%20Validate%20Binary%20Search%20Tree.py)
   - [0102. Binary Tree Level Order Traversal.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0102.%20Binary%20Tree%20Level%20Order%20Traversal.py)
   - [0133. Clone Graph.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0133.%20Clone%20Graph.py)
+  - [0150. Evaluate Reverse Polish Notation.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0150.%20Evaluate%20Reverse%20Polish%20Notation.py)
   - [0235. Lowest Common Ancestor of a Binary Search Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.py)
   - [0542. 01 Matrix.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0542.%2001%20Matrix.py)
   - [0973. K Closest Points to Origin.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0973.%20K%20Closest%20Points%20to%20Origin.py)
@@ -109,7 +110,7 @@ This repository contains
 - utilities
 
 --- 
-#### 83 solutions in total
+#### 84 solutions in total
 --- 
 ### Note
 
