@@ -108,11 +108,11 @@ class TrieNode:
 
 # prefix = "ap"
 
-trie = TrieNode()
-trie.add_from_arr(word_list)
-print(trie.search("da"))
-print(trie.search("carrot"))
-print(trie.get_arr_from_prefix(prefix))
-print(trie.get_arr_of_all())
-trie.delete("apple")
-print(trie.get_arr_of_all())
+# trie = TrieNode()
+# trie.add_from_arr(word_list)
+# print(trie.search("da"))
+# print(trie.search("carrot"))
+# print(trie.get_arr_from_prefix(prefix))
+# print(trie.get_arr_of_all())
+# trie.delete("apple")
+# print(trie.get_arr_of_all())
