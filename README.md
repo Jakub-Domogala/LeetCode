@@ -38,6 +38,7 @@ This repository contains
   - [0111. Minimum Depth of Binary Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0111.%20Minimum%20Depth%20of%20Binary%20Tree.py)
   - [0112. Path Sum.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0112.%20Path%20Sum.py)
   - [0118. Pascal's Triangle.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0118.%20Pascal%27s%20Triangle.py)
+  - [0119. Pascal's Triangle II.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0119.%20Pascal%27s%20Triangle%20II.py)
   - [0121. Best Time To Buy and Sell Stock.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0121.%20Best%20Time%20To%20Buy%20and%20Sell%20Stock.py)
   - [0125. Valid Palindrome.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0125.%20Valid%20Palindrome.py)
   - [0141. Linked List Cycle.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0141.%20Linked%20List%20Cycle.py)
@@ -121,7 +122,7 @@ This repository contains
 - utilities
 
 --- 
-#### 95 solutions in total
+#### 96 solutions in total
 --- 
 ### Note
 
