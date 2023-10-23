@@ -104,6 +104,7 @@ This repository contains
   - [0322. Coin Change.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0322.%20Coin%20Change.py)
   - [0542. 01 Matrix.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0542.%2001%20Matrix.py)
   - [0973. K Closest Points to Origin.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0973.%20K%20Closest%20Points%20to%20Origin.py)
+  - [0981. Time Based Key-Value Store.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0981.%20Time%20Based%20Key-Value%20Store.py)
   - [0994. Rotting Oranges.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0994.%20Rotting%20Oranges.py)
   - [1291. Sequential Digits.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/1291.%20Sequential%20Digits.py)
   - utilities
@@ -119,7 +120,7 @@ This repository contains
 - utilities
 
 --- 
-#### 93 solutions in total
+#### 94 solutions in total
 --- 
 ### Note
 
