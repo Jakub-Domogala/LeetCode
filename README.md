@@ -93,6 +93,7 @@ This repository contains
   - [0102. Binary Tree Level Order Traversal.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0102.%20Binary%20Tree%20Level%20Order%20Traversal.py)
   - [0133. Clone Graph.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0133.%20Clone%20Graph.py)
   - [0150. Evaluate Reverse Polish Notation.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0150.%20Evaluate%20Reverse%20Polish%20Notation.py)
+  - [0155. Min Stack.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0155.%20Min%20Stack.py)
   - [0200. Number of Islands.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0200.%20Number%20of%20Islands.py)
   - [0207. Course Schedule.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0207.%20Course%20Schedule.py)
   - [0208. Implement Trie (Prefix Tree).py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0208.%20Implement%20Trie%20%28Prefix%20Tree%29.py)
@@ -116,7 +117,7 @@ This repository contains
 - utilities
 
 --- 
-#### 90 solutions in total
+#### 91 solutions in total
 --- 
 ### Note
 
