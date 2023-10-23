@@ -17,4 +17,4 @@ class Solution:
         return result
 
 
-print(Solution().generate(5))
+# print(Solution().generate(5))
