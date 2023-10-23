@@ -85,6 +85,7 @@ This repository contains
   - [0047. Permutations II.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0047.%20Permutations%20II.py)
   - [0048. Rotate Image.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0048.%20Rotate%20Image.py)
   - [0053. Maximum Subarray.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0053.%20Maximum%20Subarray.py)
+  - [0056. Merge Intervals.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0056.%20Merge%20Intervals.py)
   - [0057. Insert Interval.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0057.%20Insert%20Interval.py)
   - [0074. Search a 2D Matrix.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0074.%20Search%20a%202D%20Matrix.py)
   - [0095. Unique Binary Search Trees II.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0095.%20Unique%20Binary%20Search%20Trees%20II.py)
@@ -117,7 +118,7 @@ This repository contains
 - utilities
 
 --- 
-#### 91 solutions in total
+#### 92 solutions in total
 --- 
 ### Note
 
