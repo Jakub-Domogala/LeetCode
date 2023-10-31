@@ -36,9 +36,11 @@ class Solution:
             elif nums[i] == 0:
                 swap_nums(i, first_non_0_id)
                 first_non_0_id = get_non_0(first_non_0_id)
+                continue
             elif nums[i] == 2:
                 swap_nums(i, last_non_2_id)
                 last_non_2_id = get_non_2(last_non_2_id)
+                continue
             i += 1
 
 
