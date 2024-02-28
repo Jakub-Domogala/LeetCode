@@ -6,12 +6,10 @@ git pull
 git add .
 git commit -m "$1"
 git push
-if [[ "$OSTYPE" == "linux-gnu"* ]]; then
-    echo "Running on Linux"
-elif [[ "$OSTYPE" == "darwin"* ]]; then
+if [[ "$OSTYPE" == "darwin"* ]]; then
     python3 utilities/readme_generator.py
 elif [[ "$OSTYPE" == "cygwin" ]]; then
-    echo "Running on Windows/Cygwin"
+    python utilities/readme_generator.py
 elif [[ "$OSTYPE" == "msys" ]]; then
     python utilities/readme_generator.py
 elif [[ "$OSTYPE" == "win32" ]]; then
