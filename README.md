@@ -96,6 +96,7 @@ This repository contains
   - [0096. Unique Binary Search Trees.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0096.%20Unique%20Binary%20Search%20Trees.py)
   - [0098. Validate Binary Search Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0098.%20Validate%20Binary%20Search%20Tree.py)
   - [0102. Binary Tree Level Order Traversal.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0102.%20Binary%20Tree%20Level%20Order%20Traversal.py)
+  - [0120. Triangle.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0120.%20Triangle.py)
   - [0133. Clone Graph.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0133.%20Clone%20Graph.py)
   - [0150. Evaluate Reverse Polish Notation.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0150.%20Evaluate%20Reverse%20Polish%20Notation.py)
   - [0155. Min Stack.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0155.%20Min%20Stack.py)
@@ -125,7 +126,7 @@ This repository contains
 - utilities
 
 --- 
-#### 99 solutions in total
+#### 100 solutions in total
 --- 
 ### Note
 
