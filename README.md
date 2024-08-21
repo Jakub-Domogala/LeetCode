@@ -41,6 +41,7 @@ This repository contains
   - [0119. Pascal's Triangle II.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0119.%20Pascal%27s%20Triangle%20II.py)
   - [0121. Best Time To Buy and Sell Stock.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0121.%20Best%20Time%20To%20Buy%20and%20Sell%20Stock.py)
   - [0125. Valid Palindrome.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0125.%20Valid%20Palindrome.py)
+  - [0136. Single Number.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0136.%20Single%20Number.py)
   - [0141. Linked List Cycle.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0141.%20Linked%20List%20Cycle.py)
   - [0169. Majority Element.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0169.%20Majority%20Element.py)
   - [0206. Reverse Linked List.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0206.%20Reverse%20Linked%20List.py)
@@ -126,7 +127,7 @@ This repository contains
 - utilities
 
 --- 
-#### 100 solutions in total
+#### 101 solutions in total
 --- 
 ### Note
 
