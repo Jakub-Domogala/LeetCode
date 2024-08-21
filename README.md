@@ -49,6 +49,7 @@ This repository contains
   - [0226. Invert Binary Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0226.%20Invert%20Binary%20Tree.py)
   - [0232. Implement Queue using Stacks.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0232.%20Implement%20Queue%20using%20Stacks.py)
   - [0242. Valid Anagram.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0242.%20Valid%20Anagram.py)
+  - [0268. Missing Number.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0268.%20Missing%20Number.py)
   - [0278. First Bad Version.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0278.%20First%20Bad%20Version.py)
   - [0383. Ransom Note.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0383.%20Ransom%20Note.py)
   - [0409. Longest Palindrome.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0409.%20Longest%20Palindrome.py)
@@ -99,6 +100,7 @@ This repository contains
   - [0102. Binary Tree Level Order Traversal.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0102.%20Binary%20Tree%20Level%20Order%20Traversal.py)
   - [0120. Triangle.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0120.%20Triangle.py)
   - [0133. Clone Graph.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0133.%20Clone%20Graph.py)
+  - [0137. Single Number II.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0137.%20Single%20Number%20II.py)
   - [0150. Evaluate Reverse Polish Notation.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0150.%20Evaluate%20Reverse%20Polish%20Notation.py)
   - [0155. Min Stack.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0155.%20Min%20Stack.py)
   - [0200. Number of Islands.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0200.%20Number%20of%20Islands.py)
@@ -127,7 +129,7 @@ This repository contains
 - utilities
 
 --- 
-#### 101 solutions in total
+#### 103 solutions in total
 --- 
 ### Note
 
