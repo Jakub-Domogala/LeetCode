@@ -109,6 +109,7 @@ This repository contains
   - [0235. Lowest Common Ancestor of a Binary Search Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.py)
   - [0236. Lowest Common Ancestor of a Binary Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.py)
   - [0238. Product of Array Except Self.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0238.%20Product%20of%20Array%20Except%20Self.py)
+  - [0260. Single Number III.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0260.%20Single%20Number%20III.py)
   - [0322. Coin Change.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0322.%20Coin%20Change.py)
   - [0542. 01 Matrix.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0542.%2001%20Matrix.py)
   - [0721. Accounts Merge.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0721.%20Accounts%20Merge.py)
@@ -129,7 +130,7 @@ This repository contains
 - utilities
 
 --- 
-#### 103 solutions in total
+#### 104 solutions in total
 --- 
 ### Note
 
