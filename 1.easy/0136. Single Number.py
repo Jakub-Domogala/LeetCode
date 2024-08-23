@@ -10,6 +10,6 @@ class Solution:
         return result
 
 
-nums = [2,2,1]
-result = Solution().singleNumber(nums)
-print(result)  # 1
+# nums = [2,2,1]
+# result = Solution().singleNumber(nums)
+# print(result)  # 1
