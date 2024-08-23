@@ -112,6 +112,7 @@ This repository contains
   - [0238. Product of Array Except Self.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0238.%20Product%20of%20Array%20Except%20Self.py)
   - [0260. Single Number III.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0260.%20Single%20Number%20III.py)
   - [0322. Coin Change.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0322.%20Coin%20Change.py)
+  - [0454. 4Sum II.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0454.%204Sum%20II.py)
   - [0542. 01 Matrix.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0542.%2001%20Matrix.py)
   - [0721. Accounts Merge.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0721.%20Accounts%20Merge.py)
   - [0973. K Closest Points to Origin.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0973.%20K%20Closest%20Points%20to%20Origin.py)
@@ -126,12 +127,13 @@ This repository contains
   - [0004. Median of Two Sorted Arrays.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0004.%20Median%20of%20Two%20Sorted%20Arrays.py)
   - [0233. Number of Digit One.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0233.%20Number%20of%20Digit%20One.py)
   - [0239. Sliding Window Maximum.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0239.%20Sliding%20Window%20Maximum.py)
+  - [0982. Triples with Bitwise AND Equal To Zero.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0982.%20Triples%20with%20Bitwise%20AND%20Equal%20To%20Zero.py)
 - algorithms
   - [binary_search.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/algorithms/binary_search.py)
 - utilities
 
 --- 
-#### 105 solutions in total
+#### 107 solutions in total
 --- 
 ### Note
 
