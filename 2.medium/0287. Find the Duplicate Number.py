@@ -1,7 +1,6 @@
 # Time Complexity:   O(n)
 # Memory Complexity: O(1)
 
-
 from typing import List
 
 class Solution:
