@@ -101,6 +101,7 @@ This repository contains
   - [0074. Search a 2D Matrix.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0074.%20Search%20a%202D%20Matrix.py)
   - [0075. Sort Colors.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0075.%20Sort%20Colors.py)
   - [0078. Subsets.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0078.%20Subsets.py)
+  - [0090. Subsets II.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0090.%20Subsets%20II.py)
   - [0095. Unique Binary Search Trees II.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0095.%20Unique%20Binary%20Search%20Trees%20II.py)
   - [0096. Unique Binary Search Trees.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0096.%20Unique%20Binary%20Search%20Trees.py)
   - [0098. Validate Binary Search Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0098.%20Validate%20Binary%20Search%20Tree.py)
@@ -110,6 +111,7 @@ This repository contains
   - [0137. Single Number II.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0137.%20Single%20Number%20II.py)
   - [0150. Evaluate Reverse Polish Notation.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0150.%20Evaluate%20Reverse%20Polish%20Notation.py)
   - [0155. Min Stack.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0155.%20Min%20Stack.py)
+  - [0187. Repeated DNA Sequences.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0187.%20Repeated%20DNA%20Sequences.py)
   - [0200. Number of Islands.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0200.%20Number%20of%20Islands.py)
   - [0207. Course Schedule.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0207.%20Course%20Schedule.py)
   - [0208. Implement Trie (Prefix Tree).py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0208.%20Implement%20Trie%20%28Prefix%20Tree%29.py)
@@ -140,7 +142,7 @@ This repository contains
 - utilities
 
 --- 
-#### 114 solutions in total
+#### 116 solutions in total
 --- 
 ### Note
 
