@@ -54,6 +54,7 @@ This repository contains
   - [0268. Missing Number.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0268.%20Missing%20Number.py)
   - [0278. First Bad Version.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0278.%20First%20Bad%20Version.py)
   - [0338. Counting Bits.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0338.%20Counting%20Bits.py)
+  - [0342. Power of Four.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0342.%20Power%20of%20Four.py)
   - [0383. Ransom Note.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0383.%20Ransom%20Note.py)
   - [0409. Longest Palindrome.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0409.%20Longest%20Palindrome.py)
   - [0543. Diameter of Binary Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0543.%20Diameter%20of%20Binary%20Tree.py)
@@ -137,7 +138,7 @@ This repository contains
 - utilities
 
 --- 
-#### 111 solutions in total
+#### 112 solutions in total
 --- 
 ### Note
 
