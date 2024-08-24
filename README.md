@@ -113,6 +113,7 @@ This repository contains
   - [0155. Min Stack.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0155.%20Min%20Stack.py)
   - [0187. Repeated DNA Sequences.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0187.%20Repeated%20DNA%20Sequences.py)
   - [0200. Number of Islands.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0200.%20Number%20of%20Islands.py)
+  - [0201. Bitwise AND of Numbers Range.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0201.%20Bitwise%20AND%20of%20Numbers%20Range.py)
   - [0207. Course Schedule.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0207.%20Course%20Schedule.py)
   - [0208. Implement Trie (Prefix Tree).py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0208.%20Implement%20Trie%20%28Prefix%20Tree%29.py)
   - [0235. Lowest Common Ancestor of a Binary Search Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.py)
@@ -142,7 +143,7 @@ This repository contains
 - utilities
 
 --- 
-#### 116 solutions in total
+#### 117 solutions in total
 --- 
 ### Note
 
