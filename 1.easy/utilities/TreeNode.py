@@ -2,7 +2,7 @@ from typing import Any, Type, List
 from math import ceil, log2, inf
 
 
-# All functions in this class relate to an unordered tree, elements inside aren't sorted in any way, it is simplest representation of tree
+# Most functions in this class relate to an unordered tree, elements inside aren't sorted in any way, it is simplest representation of binary tree
 class TreeNode(object):
     def __init__(self, val=0, left=None, right=None) -> Type["TreeNode"]:
         self.val = val
@@ -140,10 +140,21 @@ class TreeNode(object):
 
         return isValid()
 
+    def preorderTravelsal(self):
+        result = []
+        def add_branch(node, result):
+            if node is None:
+                return
+            result += [node.val]
+            add_branch(node.left, result)
+            add_branch(node.right, result)
+        add_branch(self, result)
+        return result
 
 # arr = [1,2,2,3,4]
 # tree = TreeNode().arr2tree(arr)
 
+# print('preorderTravelsal\n', tree.preorderTravelsal())
 # print('tree2arr\n', tree.tree2arr(True))
 # print('tree2arr_of_arr\n', tree.tree2arr_of_arr(True))
 # print('tree __str__\n', tree)
