@@ -132,6 +132,7 @@ This repository contains
   - [0973. K Closest Points to Origin.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0973.%20K%20Closest%20Points%20to%20Origin.py)
   - [0981. Time Based Key-Value Store.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0981.%20Time%20Based%20Key-Value%20Store.py)
   - [0994. Rotting Oranges.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0994.%20Rotting%20Oranges.py)
+  - [1161. Maximum Level Sum of a Binary Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree.py)
   - [1291. Sequential Digits.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/1291.%20Sequential%20Digits.py)
   - [2583. Kth Largest Sum in a Binary Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/2583.%20Kth%20Largest%20Sum%20in%20a%20Binary%20Tree.py)
   - utilities
@@ -149,7 +150,7 @@ This repository contains
 - utilities
 
 --- 
-#### 122 solutions in total
+#### 123 solutions in total
 --- 
 ### Note
 
