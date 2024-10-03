@@ -44,6 +44,7 @@ This repository contains
   - [0136. Single Number.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0136.%20Single%20Number.py)
   - [0141. Linked List Cycle.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0141.%20Linked%20List%20Cycle.py)
   - [0144. Binary Tree Preorder Traversal.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0144.%20Binary%20Tree%20Preorder%20Traversal.py)
+  - [0145. Binary Tree Postorder Traversal.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0145.%20Binary%20Tree%20Postorder%20Traversal.py)
   - [0169. Majority Element.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0169.%20Majority%20Element.py)
   - [0206. Reverse Linked List.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0206.%20Reverse%20Linked%20List.py)
   - [0217. Contains Duplicate.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0217.%20Contains%20Duplicate.py)
@@ -146,7 +147,7 @@ This repository contains
 - utilities
 
 --- 
-#### 120 solutions in total
+#### 121 solutions in total
 --- 
 ### Note
 
