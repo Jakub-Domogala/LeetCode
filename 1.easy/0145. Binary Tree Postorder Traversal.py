@@ -21,8 +21,8 @@ class Solution:
         dive(root)
         return result
 
-arr = [1, 2, 3, 4]
-tree = TreeNode().arr2tree(arr)
-print(tree)
-result = Solution().postorderTraversal(tree)
-print(result)
+# arr = [1, 2, 3, 4]
+# tree = TreeNode().arr2tree(arr)
+# print(tree)
+# result = Solution().postorderTraversal(tree)
+# print(result)
