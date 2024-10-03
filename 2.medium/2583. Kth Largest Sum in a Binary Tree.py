@@ -48,7 +48,6 @@ class Solution:
             dive(node.left, level + 1)
             dive(node.right, level + 1)
         dive(root)
-        print(sums)
         return -1 if len(sums) < k else randomized_select(sums, 0, len(sums) - 1, k)
 
 # arr = [1,2,None,3]
