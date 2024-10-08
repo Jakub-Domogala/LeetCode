@@ -155,7 +155,7 @@ This repository contains
 - utilities
 
 --- 
-#### 127 solutions in total56 easy problems67 medium problems4 hard problems
+#### 127 solutions in total0 easy problems0 medium problems0 hard problems
 --- 
 ### Note
 
