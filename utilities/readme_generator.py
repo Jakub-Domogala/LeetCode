@@ -55,6 +55,7 @@ def get_file_content(filename):
     with open(filename, "r") as file:
         return file.read()
 
+count, dir_count_dict = FileCounter().count_files_with_pattern()
 
 with open(output_file, "w") as f:
     f.write(get_file_content(input_before) + "\n")
@@ -64,7 +65,10 @@ with open(output_file, "w") as f:
     file_links = generate_file_links()
     f.write(file_links + "\n--- \n")
     f.write(
-        "#### " + str(FileCounter().count_files_with_pattern()) + " solutions in total"
+        "#### " + str(count) + " solutions in total"
     )
+    f.write(str(dir_count_dict['./1.easy']) + " easy problems")
+    f.write(str(dir_count_dict['./2.medium']) + " medium problems")
+    f.write(str(dir_count_dict['./3.hard']) + " hard problems")
     f.write("\n--- \n")
     f.write(get_file_content(input_after))
