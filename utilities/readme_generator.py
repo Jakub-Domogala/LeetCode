@@ -69,8 +69,8 @@ with open(output_file, "w") as f:
         "### " + str(count) + " solutions in total"
     )
     counters_size = floor(log10(max(dir_count_dict.values()))) + 1
-    f.write("\n`" + "{:<{counters_size}d}`".format(dir_count_dict['./1.easy']) + " easy problems\n")
-    f.write("\n`" + "{:<{counters_size}d}`".format(dir_count_dict['./2.medium']) + " medium problems\n")
-    f.write("\n`" + "{:<{counters_size}d}`".format(dir_count_dict['./3.hard']) + " hard problems\n")
+    f.write("\n`" + "{:<{w}d}`".format(dir_count_dict['./1.easy', w=counters_size]) + " easy problems\n")
+    f.write("\n`" + "{:<{w}d}`".format(dir_count_dict['./2.medium', w=counters_size]) + " medium problems\n")
+    f.write("\n`" + "{:<{w}d}`".format(dir_count_dict['./3.hard', w=counters_size]) + " hard problems\n")
     f.write("\n--- \n")
     f.write(get_file_content(input_after))
