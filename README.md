@@ -156,11 +156,11 @@ This repository contains
 
 --- 
 ### 127 solutions in total
-56 easy problems
+  56 easy problems
 
-67 medium problems
+  67 medium problems
 
-4 hard problems
+   4 hard problems
 
 --- 
 ### Note
