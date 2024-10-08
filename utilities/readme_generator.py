@@ -65,7 +65,7 @@ with open(output_file, "w") as f:
     file_links = generate_file_links()
     f.write(file_links + "\n--- \n")
     f.write(
-        "#### " + str(count) + " solutions in total"
+        "### " + str(count) + " solutions in total"
     )
     f.write("\n" + str(dir_count_dict['./1.easy']) + " easy problems\n")
     f.write("\n" + str(dir_count_dict['./2.medium']) + " medium problems\n")
