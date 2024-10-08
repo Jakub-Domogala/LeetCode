@@ -135,6 +135,7 @@ This repository contains
   - [0994. Rotting Oranges.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0994.%20Rotting%20Oranges.py)
   - [1161. Maximum Level Sum of a Binary Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree.py)
   - [1291. Sequential Digits.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/1291.%20Sequential%20Digits.py)
+  - [1963. Minimum Number of Swaps to Make the String Balanced.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/1963.%20Minimum%20Number%20of%20Swaps%20to%20Make%20the%20String%20Balanced.py)
   - [2583. Kth Largest Sum in a Binary Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/2583.%20Kth%20Largest%20Sum%20in%20a%20Binary%20Tree.py)
   - utilities
     - [ListNode.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/utilities/ListNode.py)
@@ -151,7 +152,7 @@ This repository contains
 - utilities
 
 --- 
-#### 124 solutions in total
+#### 125 solutions in total
 --- 
 ### Note
 
