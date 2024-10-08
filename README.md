@@ -135,9 +135,11 @@ This repository contains
   - [0981. Time Based Key-Value Store.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0981.%20Time%20Based%20Key-Value%20Store.py)
   - [0994. Rotting Oranges.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0994.%20Rotting%20Oranges.py)
   - [1161. Maximum Level Sum of a Binary Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree.py)
+  - [1249. Minimum Remove to Make Valid Parentheses.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.py)
   - [1291. Sequential Digits.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/1291.%20Sequential%20Digits.py)
   - [1963. Minimum Number of Swaps to Make the String Balanced.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/1963.%20Minimum%20Number%20of%20Swaps%20to%20Make%20the%20String%20Balanced.py)
   - [2583. Kth Largest Sum in a Binary Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/2583.%20Kth%20Largest%20Sum%20in%20a%20Binary%20Tree.py)
+  - [t.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/t.py)
   - utilities
     - [ListNode.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/utilities/ListNode.py)
     - [TreeNode.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/utilities/TreeNode.py)
@@ -153,7 +155,7 @@ This repository contains
 - utilities
 
 --- 
-#### 126 solutions in total
+#### 127 solutions in total
 --- 
 ### Note
 
