@@ -16,6 +16,7 @@ files_excluded = [
     "coverage",
     "tempCodeRunnerFile.py",
     "FileCounter.py",
+    "t.py"
 ]
 
 input_before = os.path.join("utilities", "readme_beginning.md")
