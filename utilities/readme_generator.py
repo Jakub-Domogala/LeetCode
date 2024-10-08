@@ -67,8 +67,8 @@ with open(output_file, "w") as f:
     f.write(
         "### " + str(count) + " solutions in total"
     )
-    f.write("\n" + "{:4d}".format(dir_count_dict['./1.easy']) + " easy problems\n")
-    f.write("\n" + "{:4d}".format(dir_count_dict['./2.medium']) + " medium problems\n")
-    f.write("\n" + "{:4d}".format(dir_count_dict['./3.hard']) + " hard problems\n")
+    f.write("\n`" + "{:4d}`".format(dir_count_dict['./1.easy']) + " easy problems\n")
+    f.write("\n`" + "{:4d}`".format(dir_count_dict['./2.medium']) + " medium problems\n")
+    f.write("\n`" + "{:4d}`".format(dir_count_dict['./3.hard']) + " hard problems\n")
     f.write("\n--- \n")
     f.write(get_file_content(input_after))
