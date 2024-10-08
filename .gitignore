@@ -163,5 +163,6 @@ cython_debug/
 
 # testing files
 test*
+*/t.py
 
 .DS_Store
