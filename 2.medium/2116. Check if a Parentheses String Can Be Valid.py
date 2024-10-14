@@ -2,6 +2,8 @@
 # Memory Complexity: O(1)
 
 '''
+Beats 99.63% in Runtime and 100% in Memory
+
 The idea is that when we iterate over string, when we see locked char we do casual addition or subtraction
 from the balance variable(same as in all of similar problems), when we see unlocked we always try to use closing
 bracket(use openning only if balance becomes negative)
