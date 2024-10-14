@@ -149,18 +149,20 @@ This repository contains
   - [0233. Number of Digit One.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0233.%20Number%20of%20Digit%20One.py)
   - [0239. Sliding Window Maximum.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0239.%20Sliding%20Window%20Maximum.py)
   - [0982. Triples with Bitwise AND Equal To Zero.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0982.%20Triples%20with%20Bitwise%20AND%20Equal%20To%20Zero.py)
+  - [3008. Find Beautiful Indices in the Given Array II.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/3008.%20Find%20Beautiful%20Indices%20in%20the%20Given%20Array%20II.py)
 - algorithms
+  - [KMPSearch.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/algorithms/KMPSearch.py)
   - [binary_search.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/algorithms/binary_search.py)
   - [randomized_select.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/algorithms/randomized_select.py)
 - utilities
 
 --- 
-### 128 solutions in total
+### 129 solutions in total
 `56` Easy
 
 `68` Medium
 
-`4 ` Hard
+`5 ` Hard
 
 --- 
 ### Note
