@@ -141,6 +141,7 @@ This repository contains
   - [1291. Sequential Digits.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/1291.%20Sequential%20Digits.py)
   - [1541. Minimum Insertions to Balance a Parentheses String.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/1541.%20Minimum%20Insertions%20to%20Balance%20a%20Parentheses%20String.py)
   - [1963. Minimum Number of Swaps to Make the String Balanced.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/1963.%20Minimum%20Number%20of%20Swaps%20to%20Make%20the%20String%20Balanced.py)
+  - [2116. Check if a Parentheses String Can Be Valid.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/2116.%20Check%20if%20a%20Parentheses%20String%20Can%20Be%20Valid.py)
   - [2583. Kth Largest Sum in a Binary Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/2583.%20Kth%20Largest%20Sum%20in%20a%20Binary%20Tree.py)
   - utilities
     - [ListNode.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/utilities/ListNode.py)
@@ -159,10 +160,10 @@ This repository contains
 - utilities
 
 --- 
-### 131 solutions in total
+### 132 solutions in total
 `58` Easy
 
-`68` Medium
+`69` Medium
 
 `5 ` Hard
 
