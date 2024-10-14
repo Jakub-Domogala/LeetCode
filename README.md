@@ -60,6 +60,7 @@ This repository contains
   - [0342. Power of Four.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0342.%20Power%20of%20Four.py)
   - [0383. Ransom Note.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0383.%20Ransom%20Note.py)
   - [0409. Longest Palindrome.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0409.%20Longest%20Palindrome.py)
+  - [0495. Teemo Attacking.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0495.%20Teemo%20Attacking.py)
   - [0543. Diameter of Binary Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0543.%20Diameter%20of%20Binary%20Tree.py)
   - [0589. N-ary Tree Preorder Traversal.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0589.%20N-ary%20Tree%20Preorder%20Traversal.py)
   - [0590. N-ary Tree Postorder Traversal.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0590.%20N-ary%20Tree%20Postorder%20Traversal.py)
@@ -158,8 +159,8 @@ This repository contains
 - utilities
 
 --- 
-### 130 solutions in total
-`57` Easy
+### 131 solutions in total
+`58` Easy
 
 `68` Medium
 
