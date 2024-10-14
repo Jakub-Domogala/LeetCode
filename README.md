@@ -137,6 +137,7 @@ This repository contains
   - [1161. Maximum Level Sum of a Binary Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree.py)
   - [1249. Minimum Remove to Make Valid Parentheses.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.py)
   - [1291. Sequential Digits.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/1291.%20Sequential%20Digits.py)
+  - [1541. Minimum Insertions to Balance a Parentheses String.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/1541.%20Minimum%20Insertions%20to%20Balance%20a%20Parentheses%20String.py)
   - [1963. Minimum Number of Swaps to Make the String Balanced.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/1963.%20Minimum%20Number%20of%20Swaps%20to%20Make%20the%20String%20Balanced.py)
   - [2583. Kth Largest Sum in a Binary Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/2583.%20Kth%20Largest%20Sum%20in%20a%20Binary%20Tree.py)
   - utilities
@@ -154,10 +155,10 @@ This repository contains
 - utilities
 
 --- 
-### 127 solutions in total
+### 128 solutions in total
 `56` Easy
 
-`67` Medium
+`68` Medium
 
 `4 ` Hard
 
