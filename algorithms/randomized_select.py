@@ -17,7 +17,6 @@ def randomized_select(A, p, r, i):
         return randomized_select(A, q + 1, r, i - k)
 
 def randomized_partition(A, p, r):
-    print(p, r)
     i = p if p == r else randint(p, r)
 
     A[r], A[i] = A[i], A[r]
