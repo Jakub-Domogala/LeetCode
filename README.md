@@ -131,6 +131,7 @@ This repository contains
   - [0322. Coin Change.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0322.%20Coin%20Change.py)
   - [0454. 4Sum II.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0454.%204Sum%20II.py)
   - [0542. 01 Matrix.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0542.%2001%20Matrix.py)
+  - [0678. Valid Parenthesis String.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0678.%20Valid%20Parenthesis%20String.py)
   - [0721. Accounts Merge.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0721.%20Accounts%20Merge.py)
   - [0921. Minimum Add to Make Parentheses Valid.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.py)
   - [0973. K Closest Points to Origin.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0973.%20K%20Closest%20Points%20to%20Origin.py)
@@ -160,10 +161,10 @@ This repository contains
 - utilities
 
 --- 
-### 132 solutions in total
+### 133 solutions in total
 `58` Easy
 
-`69` Medium
+`70` Medium
 
 `5 ` Hard
 
