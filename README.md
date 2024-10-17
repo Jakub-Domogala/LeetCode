@@ -49,6 +49,7 @@ This repository contains
   - [0190. Reverse Bits.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0190.%20Reverse%20Bits.py)
   - [0191. Number of 1 Bits.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0191.%20Number%20of%201%20Bits.py)
   - [0202. Happy Number.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0202.%20Happy%20Number.py)
+  - [0203. Remove Linked List Elements.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0203.%20Remove%20Linked%20List%20Elements.py)
   - [0206. Reverse Linked List.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0206.%20Reverse%20Linked%20List.py)
   - [0217. Contains Duplicate.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0217.%20Contains%20Duplicate.py)
   - [0222. Count Complete Tree Nodes.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0222.%20Count%20Complete%20Tree%20Nodes.py)
@@ -164,8 +165,8 @@ This repository contains
 - utilities
 
 --- 
-### 136 solutions in total
-`61` Easy
+### 137 solutions in total
+`62` Easy
 
 `70` Medium
 
