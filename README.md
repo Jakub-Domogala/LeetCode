@@ -47,6 +47,7 @@ This repository contains
   - [0145. Binary Tree Postorder Traversal.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0145.%20Binary%20Tree%20Postorder%20Traversal.py)
   - [0169. Majority Element.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0169.%20Majority%20Element.py)
   - [0190. Reverse Bits.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0190.%20Reverse%20Bits.py)
+  - [0191. Number of 1 Bits.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0191.%20Number%20of%201%20Bits.py)
   - [0206. Reverse Linked List.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0206.%20Reverse%20Linked%20List.py)
   - [0217. Contains Duplicate.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0217.%20Contains%20Duplicate.py)
   - [0222. Count Complete Tree Nodes.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0222.%20Count%20Complete%20Tree%20Nodes.py)
@@ -162,8 +163,8 @@ This repository contains
 - utilities
 
 --- 
-### 134 solutions in total
-`59` Easy
+### 135 solutions in total
+`60` Easy
 
 `70` Medium
 
