@@ -53,6 +53,7 @@ This repository contains
   - [0205. Isomorphic Strings.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0205.%20Isomorphic%20Strings.py)
   - [0206. Reverse Linked List.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0206.%20Reverse%20Linked%20List.py)
   - [0217. Contains Duplicate.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0217.%20Contains%20Duplicate.py)
+  - [0219. Contains Duplicate II.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0219.%20Contains%20Duplicate%20II.py)
   - [0222. Count Complete Tree Nodes.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0222.%20Count%20Complete%20Tree%20Nodes.py)
   - [0226. Invert Binary Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0226.%20Invert%20Binary%20Tree.py)
   - [0231. Power of Two.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0231.%20Power%20of%20Two.py)
@@ -167,8 +168,8 @@ This repository contains
 - utilities
 
 --- 
-### 139 solutions in total
-`63` Easy
+### 140 solutions in total
+`64` Easy
 
 `71` Medium
 
