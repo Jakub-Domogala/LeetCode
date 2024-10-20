@@ -157,6 +157,7 @@ This repository contains
     - [TrieNode.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/utilities/TrieNode.py)
 - 3.hard
   - [0004. Median of Two Sorted Arrays.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0004.%20Median%20of%20Two%20Sorted%20Arrays.py)
+  - [0220. Contains Duplicate III.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0220.%20Contains%20Duplicate%20III.py)
   - [0233. Number of Digit One.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0233.%20Number%20of%20Digit%20One.py)
   - [0239. Sliding Window Maximum.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0239.%20Sliding%20Window%20Maximum.py)
   - [0982. Triples with Bitwise AND Equal To Zero.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0982.%20Triples%20with%20Bitwise%20AND%20Equal%20To%20Zero.py)
@@ -168,12 +169,12 @@ This repository contains
 - utilities
 
 --- 
-### 140 solutions in total
+### 141 solutions in total
 `64` Easy
 
 `71` Medium
 
-`5 ` Hard
+`6 ` Hard
 
 --- 
 ### Note
