@@ -61,6 +61,7 @@ This repository contains
   - [0242. Valid Anagram.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0242.%20Valid%20Anagram.py)
   - [0268. Missing Number.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0268.%20Missing%20Number.py)
   - [0278. First Bad Version.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0278.%20First%20Bad%20Version.py)
+  - [0290. Word Pattern.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0290.%20Word%20Pattern.py)
   - [0326. Power of Three.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0326.%20Power%20of%20Three.py)
   - [0338. Counting Bits.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0338.%20Counting%20Bits.py)
   - [0342. Power of Four.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0342.%20Power%20of%20Four.py)
@@ -169,8 +170,8 @@ This repository contains
 - utilities
 
 --- 
-### 141 solutions in total
-`64` Easy
+### 142 solutions in total
+`65` Easy
 
 `71` Medium
 
