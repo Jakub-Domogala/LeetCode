@@ -6,6 +6,9 @@ class SummaryRanges:
         self.s_list = []
 
     def addNum(self, value: int) -> None:
+        # Time Complexity:   O(logn)
+        # Memory Complexity: O(1)
+
         def binary_search_geq(arr: List[int], target: int):
             left, right = 0, len(arr) - 1
             while left <= right:
@@ -25,6 +28,9 @@ class SummaryRanges:
         self.s_list.insert(idx, value)
 
     def getIntervals(self) -> List[List[int]]:
+        # Time Complexity:   O(n)
+        # Memory Complexity: O(n)
+
         n = len(self.s_list)
         print(self.s_list)
         if n == 0:
