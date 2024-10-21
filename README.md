@@ -163,6 +163,7 @@ This repository contains
   - [0220. Contains Duplicate III.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0220.%20Contains%20Duplicate%20III.py)
   - [0233. Number of Digit One.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0233.%20Number%20of%20Digit%20One.py)
   - [0239. Sliding Window Maximum.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0239.%20Sliding%20Window%20Maximum.py)
+  - [0352. Data Stream as Disjoint Intervals.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0352.%20Data%20Stream%20as%20Disjoint%20Intervals.py)
   - [0982. Triples with Bitwise AND Equal To Zero.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0982.%20Triples%20with%20Bitwise%20AND%20Equal%20To%20Zero.py)
   - [3008. Find Beautiful Indices in the Given Array II.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/3008.%20Find%20Beautiful%20Indices%20in%20the%20Given%20Array%20II.py)
 - algorithms
@@ -172,12 +173,12 @@ This repository contains
 - utilities
 
 --- 
-### 144 solutions in total
+### 145 solutions in total
 `67` Easy
 
 `71` Medium
 
-`6 ` Hard
+`7 ` Hard
 
 --- 
 ### Note
