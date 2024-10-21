@@ -70,7 +70,7 @@ with open(output_file, "w") as f:
     f.write("\n`" + "{:<{w}d}`".format(dir_count_dict['./1.easy'], w=counters_size) + " Easy\n")
     f.write("\n`" + "{:<{w}d}`".format(dir_count_dict['./2.medium'], w=counters_size) + " Medium\n")
     f.write("\n`" + "{:<{w}d}`".format(dir_count_dict['./3.hard'], w=counters_size) + " Hard\n")
-    f.write("\n--- \n")
+    # f.write("\n--- \n")
     f.write("## Table of Contents\n")
     file_links = generate_file_links()
     f.write(file_links + "\n--- \n")
