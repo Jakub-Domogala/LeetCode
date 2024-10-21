@@ -89,6 +89,7 @@ This repository contains
   - utilities
     - [ListNode.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/utilities/ListNode.py)
     - [TreeNode.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/utilities/TreeNode.py)
+    - __pycache__
 - 2.medium
   - [0002. Add Two Numbers.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0002.%20Add%20Two%20Numbers.py)
   - [0003. Longest Substring Without Repeating Characters.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0003.%20Longest%20Substring%20Without%20Repeating%20Characters.py)
@@ -161,10 +162,12 @@ This repository contains
   - [1963. Minimum Number of Swaps to Make the String Balanced.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/1963.%20Minimum%20Number%20of%20Swaps%20to%20Make%20the%20String%20Balanced.py)
   - [2116. Check if a Parentheses String Can Be Valid.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/2116.%20Check%20if%20a%20Parentheses%20String%20Can%20Be%20Valid.py)
   - [2583. Kth Largest Sum in a Binary Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/2583.%20Kth%20Largest%20Sum%20in%20a%20Binary%20Tree.py)
+  - [t.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/t.py)
   - utilities
     - [ListNode.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/utilities/ListNode.py)
     - [TreeNode.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/utilities/TreeNode.py)
     - [TrieNode.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/utilities/TrieNode.py)
+    - __pycache__
 - 3.hard
   - [0004. Median of Two Sorted Arrays.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0004.%20Median%20of%20Two%20Sorted%20Arrays.py)
   - [0220. Contains Duplicate III.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0220.%20Contains%20Duplicate%20III.py)
@@ -178,6 +181,7 @@ This repository contains
   - [binary_search.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/algorithms/binary_search.py)
   - [randomized_select.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/algorithms/randomized_select.py)
 - utilities
+  - __pycache__
 
 --- 
 ### Note
