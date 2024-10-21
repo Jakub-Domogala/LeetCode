@@ -56,6 +56,7 @@ This repository contains
   - [0219. Contains Duplicate II.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0219.%20Contains%20Duplicate%20II.py)
   - [0222. Count Complete Tree Nodes.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0222.%20Count%20Complete%20Tree%20Nodes.py)
   - [0226. Invert Binary Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0226.%20Invert%20Binary%20Tree.py)
+  - [0228. Summary Ranges.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0228.%20Summary%20Ranges.py)
   - [0231. Power of Two.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0231.%20Power%20of%20Two.py)
   - [0232. Implement Queue using Stacks.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0232.%20Implement%20Queue%20using%20Stacks.py)
   - [0242. Valid Anagram.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0242.%20Valid%20Anagram.py)
@@ -171,8 +172,8 @@ This repository contains
 - utilities
 
 --- 
-### 143 solutions in total
-`66` Easy
+### 144 solutions in total
+`67` Easy
 
 `71` Medium
 
