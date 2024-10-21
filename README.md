@@ -16,8 +16,6 @@ This repository contains
 `71` Medium
 
 `7 ` Hard
-
---- 
 ## Table of Contents
 - 1.easy
   - [0001. Two Sum.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0001.%20Two%20Sum.py)
@@ -185,7 +183,7 @@ This repository contains
 ### Note
 
 <div style="border: 1px solid black; padding: 10px; border-radius: 2px; background-color: rgba(245, 245, 245, 0.2);">
-Files in this repository are not prepared to be used on LeetCode website, if you are planning to use them for LeetCode, you might need to slightly adjust them
+Files in this repository are not prepared to be Copy-Pasted straight to LeetCode website, if you are planning to use them for LeetCode, you might need to slightly adjust them
 </div>
 
 ---
