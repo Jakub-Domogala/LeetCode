@@ -75,6 +75,7 @@ This repository contains
   - [0704. Binary Search.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0704.%20Binary%20Search.py)
   - [0733. Flood Fill.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0733.%20Flood%20Fill.py)
   - [0876. Middle of the Linked List.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0876.%20Middle%20of%20the%20Linked%20List.py)
+  - [2032. Two Out of Three.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/2032.%20Two%20Out%20of%20Three.py)
   - [2696. Minimum String Length After Removing Substrings.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/2696.%20Minimum%20String%20Length%20After%20Removing%20Substrings.py)
   - [3158. Find the XOR of Numbers Which Appear Twice.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/3158.%20Find%20the%20XOR%20of%20Numbers%20Which%20Appear%20Twice.py)
   - utilities
@@ -170,8 +171,8 @@ This repository contains
 - utilities
 
 --- 
-### 142 solutions in total
-`65` Easy
+### 143 solutions in total
+`66` Easy
 
 `71` Medium
 
