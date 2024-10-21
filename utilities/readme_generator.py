@@ -12,11 +12,11 @@ file_extensions_included = [".py"]
 files_excluded = [
     "readme_generator.py",
     "test.py",
+    "t.py"
     "__pycache__",
     "coverage",
     "tempCodeRunnerFile.py",
     "FileCounter.py",
-    "t.py"
 ]
 
 input_before = os.path.join("utilities", "readme_beginning.md")
