@@ -1,3 +1,7 @@
+# Time Complexity:   O(n)
+# Memory Complexity: O(n)
+
+
 from utilities.ListNode import ListNode
 from typing import Optional
 
