@@ -59,6 +59,7 @@ This repository contains
   - [0228. Summary Ranges.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0228.%20Summary%20Ranges.py)
   - [0231. Power of Two.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0231.%20Power%20of%20Two.py)
   - [0232. Implement Queue using Stacks.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0232.%20Implement%20Queue%20using%20Stacks.py)
+  - [0234. Palindrome Linked List.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0234.%20Palindrome%20Linked%20List.py)
   - [0242. Valid Anagram.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0242.%20Valid%20Anagram.py)
   - [0268. Missing Number.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0268.%20Missing%20Number.py)
   - [0278. First Bad Version.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0278.%20First%20Bad%20Version.py)
@@ -173,8 +174,8 @@ This repository contains
 - utilities
 
 --- 
-### 145 solutions in total
-`67` Easy
+### 146 solutions in total
+`68` Easy
 
 `71` Medium
 
