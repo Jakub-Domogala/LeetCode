@@ -10,6 +10,14 @@ This repository contains
 
 
 
+### 146 solutions in total
+`68` Easy
+
+`71` Medium
+
+`7 ` Hard
+
+--- 
 ## Table of Contents
 - 1.easy
   - [0001. Two Sum.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0001.%20Two%20Sum.py)
@@ -172,14 +180,6 @@ This repository contains
   - [binary_search.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/algorithms/binary_search.py)
   - [randomized_select.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/algorithms/randomized_select.py)
 - utilities
-
---- 
-### 146 solutions in total
-`68` Easy
-
-`71` Medium
-
-`7 ` Hard
 
 --- 
 ### Note
