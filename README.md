@@ -10,10 +10,10 @@ This repository contains
 
 
 
-### 147 solutions in total
+### 148 solutions in total
 `68` Easy
 
-`72` Medium
+`73` Medium
 
 `7 ` Hard
 ## Table of Contents
@@ -135,6 +135,7 @@ This repository contains
   - [0150. Evaluate Reverse Polish Notation.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0150.%20Evaluate%20Reverse%20Polish%20Notation.py)
   - [0155. Min Stack.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0155.%20Min%20Stack.py)
   - [0187. Repeated DNA Sequences.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0187.%20Repeated%20DNA%20Sequences.py)
+  - [0189. Rotate Array.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0189.%20Rotate%20Array.py)
   - [0200. Number of Islands.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0200.%20Number%20of%20Islands.py)
   - [0201. Bitwise AND of Numbers Range.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0201.%20Bitwise%20AND%20of%20Numbers%20Range.py)
   - [0207. Course Schedule.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0207.%20Course%20Schedule.py)
