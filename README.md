@@ -18,6 +18,7 @@ This repository contains
 `7 ` Hard
 ## Table of Contents
 - 1.easy
+  - [0001. Two Sum.java](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0001.%20Two%20Sum.java)
   - [0001. Two Sum.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0001.%20Two%20Sum.py)
   - [0009. Palindrome Number.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0009.%20Palindrome%20Number.py)
   - [0013. Roman to Integer.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0013.%20Roman%20to%20Integer.py)
