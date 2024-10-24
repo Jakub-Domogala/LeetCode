@@ -10,10 +10,10 @@ This repository contains
 
 
 
-### 151 solutions in total
+### 152 solutions in total
 `68` Easy
 
-`76` Medium
+`77` Medium
 
 `7 ` Hard
 ## Table of Contents
@@ -134,6 +134,7 @@ This repository contains
   - [0120. Triangle.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0120.%20Triangle.py)
   - [0133. Clone Graph.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0133.%20Clone%20Graph.py)
   - [0137. Single Number II.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0137.%20Single%20Number%20II.py)
+  - [0143. Reorder List.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0143.%20Reorder%20List.py)
   - [0150. Evaluate Reverse Polish Notation.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0150.%20Evaluate%20Reverse%20Polish%20Notation.py)
   - [0155. Min Stack.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0155.%20Min%20Stack.py)
   - [0187. Repeated DNA Sequences.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0187.%20Repeated%20DNA%20Sequences.py)
