@@ -10,10 +10,10 @@ This repository contains
 
 
 
-### 150 solutions in total
+### 151 solutions in total
 `68` Easy
 
-`75` Medium
+`76` Medium
 
 `7 ` Hard
 ## Table of Contents
@@ -148,6 +148,7 @@ This repository contains
   - [0260. Single Number III.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0260.%20Single%20Number%20III.py)
   - [0287. Find the Duplicate Number.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0287.%20Find%20the%20Duplicate%20Number.py)
   - [0322. Coin Change.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0322.%20Coin%20Change.py)
+  - [0328. Odd Even Linked List.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0328.%20Odd%20Even%20Linked%20List.py)
   - [0454. 4Sum II.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0454.%204Sum%20II.py)
   - [0542. 01 Matrix.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0542.%2001%20Matrix.py)
   - [0678. Valid Parenthesis String.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0678.%20Valid%20Parenthesis%20String.py)
