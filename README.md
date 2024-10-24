@@ -10,8 +10,8 @@ This repository contains
 
 
 
-### 151 solutions in total
-`69` Easy
+### 150 solutions in total
+`68` Easy
 
 `75` Medium
 
