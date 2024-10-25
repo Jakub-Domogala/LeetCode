@@ -1,6 +1,9 @@
+# Time Complexity:   O(n)
+# Memory Complexity: O(n)
+
+
 from collections import defaultdict
 from typing import Optional, List
-from typing_extensions import DefaultDict
 from utilities.ListNode import ListNode
 
 class Solution:
@@ -22,8 +25,8 @@ class Solution:
         return cnt
 
 
-arr = [0,1,2,3]
-nums = [0,1,3]
-lst = ListNode().arr2list(arr)
-result = Solution().numComponents(lst, nums)
-print(result)
+# arr = [0,1,2,3]
+# nums = [0,1,3]
+# lst = ListNode().arr2list(arr)
+# result = Solution().numComponents(lst, nums)
+# print(result)
