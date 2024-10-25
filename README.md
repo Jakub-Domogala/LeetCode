@@ -10,10 +10,10 @@ This repository contains
 
 
 
-### 155 solutions in total
+### 156 solutions in total
 `69` Easy
 
-`79` Medium
+`80` Medium
 
 `7 ` Hard
 ## Table of Contents
@@ -168,6 +168,7 @@ This repository contains
   - [1963. Minimum Number of Swaps to Make the String Balanced.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/1963.%20Minimum%20Number%20of%20Swaps%20to%20Make%20the%20String%20Balanced.py)
   - [2095. Delete the Middle Node of a Linked List.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.py)
   - [2116. Check if a Parentheses String Can Be Valid.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/2116.%20Check%20if%20a%20Parentheses%20String%20Can%20Be%20Valid.py)
+  - [2181. Merge Nodes in Between Zeros.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/2181.%20Merge%20Nodes%20in%20Between%20Zeros.py)
   - [2583. Kth Largest Sum in a Binary Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/2583.%20Kth%20Largest%20Sum%20in%20a%20Binary%20Tree.py)
   - [2607. Make K-Subarray Sums Equal.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/2607.%20Make%20K-Subarray%20Sums%20Equal.py)
   - utilities
