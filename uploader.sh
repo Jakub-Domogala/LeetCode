@@ -22,3 +22,14 @@ git pull
 git add .
 git commit -m "$1: Readme Updated at $(date +"%H:%M:%S %Y-%m-%d")"
 git push
+if [[ "$OSTYPE" == "darwin"* ]]; then
+    python3 utilities/FileCounter.py
+elif [[ "$OSTYPE" == "cygwin" ]]; then
+    python utilities/FileCounter.py
+elif [[ "$OSTYPE" == "msys" ]]; then
+    python utilities/FileCounter.py
+elif [[ "$OSTYPE" == "win32" ]]; then
+    python utilities/FileCounter.py
+else
+    python3 utilities/FileCounter.py
+fi

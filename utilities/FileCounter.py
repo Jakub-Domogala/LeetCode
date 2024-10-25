@@ -17,7 +17,6 @@ class FileCounter:
                 if re.match(self.pattern, file):
                     match = re.match(r"(\d{4})\.", file).groups(1)
                     if match not in cheked_dict:
-                        print(root, file, cheked_dict[match])
                         dir_count_dict[root] += 1
                         count += 1
                     else:
@@ -25,4 +24,5 @@ class FileCounter:
         return count, dir_count_dict
 
 if __name__ == "__main__":
-    print(FileCounter().count_files_with_pattern())
+    for e in [f"{key}:\t{value}" for key, value in sorted(FileCounter().count_files_with_pattern()[1].items())]:
+        print(e)
