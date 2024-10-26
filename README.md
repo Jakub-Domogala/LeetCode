@@ -10,10 +10,10 @@ This repository contains
 
 
 
-### 159 solutions in total
+### 160 solutions in total
 `71` Easy
 
-`81` Medium
+`82` Medium
 
 `7 ` Hard
 ## Table of Contents
@@ -128,6 +128,7 @@ This repository contains
   - [0074. Search a 2D Matrix.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0074.%20Search%20a%202D%20Matrix.py)
   - [0075. Sort Colors.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0075.%20Sort%20Colors.py)
   - [0078. Subsets.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0078.%20Subsets.py)
+  - [0080. Remove Duplicates from Sorted Array II.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0080.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.py)
   - [0090. Subsets II.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0090.%20Subsets%20II.py)
   - [0095. Unique Binary Search Trees II.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0095.%20Unique%20Binary%20Search%20Trees%20II.py)
   - [0096. Unique Binary Search Trees.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0096.%20Unique%20Binary%20Search%20Trees.py)
