@@ -10,8 +10,8 @@ This repository contains
 
 
 
-### 158 solutions in total
-`70` Easy
+### 159 solutions in total
+`71` Easy
 
 `81` Medium
 
@@ -86,6 +86,7 @@ This repository contains
   - [0876. Middle of the Linked List.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0876.%20Middle%20of%20the%20Linked%20List.py)
   - [1652. Defuse the Bomb.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/1652.%20Defuse%20the%20Bomb.py)
   - [2032. Two Out of Three.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/2032.%20Two%20Out%20of%20Three.py)
+  - [2515. Shortest Distance to Target String in a Circular Array.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/2515.%20Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array.py)
   - [2696. Minimum String Length After Removing Substrings.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/2696.%20Minimum%20String%20Length%20After%20Removing%20Substrings.py)
   - [3158. Find the XOR of Numbers Which Appear Twice.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/3158.%20Find%20the%20XOR%20of%20Numbers%20Which%20Appear%20Twice.py)
   - utilities
