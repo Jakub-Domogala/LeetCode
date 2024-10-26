@@ -1,3 +1,7 @@
+# Time Complexity:   O(n)
+# Memory Complexity: O(1)
+
+
 from typing import List
 
 class Solution:
@@ -10,8 +14,8 @@ class Solution:
                 return -1
         return cnt
 
-words = ["hello","i","am","leetcode","hello"]
-target = "hello"
-startIndex = 1
-result = Solution().closetTarget(words, target, startIndex)
-print(result)
+# words = ["hello","i","am","leetcode","hello"]
+# target = "hello"
+# startIndex = 1
+# result = Solution().closetTarget(words, target, startIndex)
+# print(result)
