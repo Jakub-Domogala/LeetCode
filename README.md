@@ -10,8 +10,8 @@ This repository contains
 
 
 
-### 160 solutions in total
-`71` Easy
+### 161 solutions in total
+`72` Easy
 
 `82` Medium
 
@@ -52,6 +52,7 @@ This repository contains
   - [0141. Linked List Cycle.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0141.%20Linked%20List%20Cycle.py)
   - [0144. Binary Tree Preorder Traversal.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0144.%20Binary%20Tree%20Preorder%20Traversal.py)
   - [0145. Binary Tree Postorder Traversal.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0145.%20Binary%20Tree%20Postorder%20Traversal.py)
+  - [0160. Intersection of Two Linked Lists.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0160.%20Intersection%20of%20Two%20Linked%20Lists.py)
   - [0169. Majority Element.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0169.%20Majority%20Element.py)
   - [0190. Reverse Bits.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0190.%20Reverse%20Bits.py)
   - [0191. Number of 1 Bits.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0191.%20Number%20of%201%20Bits.py)
