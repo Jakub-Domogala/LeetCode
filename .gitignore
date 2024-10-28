@@ -166,3 +166,4 @@ test*
 */t.py
 
 .DS_Store
+other/
