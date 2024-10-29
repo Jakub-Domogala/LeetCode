@@ -10,10 +10,10 @@ This repository contains
 
 
 
-### 161 solutions in total
+### 162 solutions in total
 `72` Easy
 
-`82` Medium
+`83` Medium
 
 `7 ` Hard
 ## Table of Contents
@@ -165,6 +165,7 @@ This repository contains
   - [0973. K Closest Points to Origin.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0973.%20K%20Closest%20Points%20to%20Origin.py)
   - [0981. Time Based Key-Value Store.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0981.%20Time%20Based%20Key-Value%20Store.py)
   - [0994. Rotting Oranges.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0994.%20Rotting%20Oranges.py)
+  - [1094. Car Pooling.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/1094.%20Car%20Pooling.py)
   - [1161. Maximum Level Sum of a Binary Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree.py)
   - [1249. Minimum Remove to Make Valid Parentheses.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.py)
   - [1291. Sequential Digits.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/1291.%20Sequential%20Digits.py)
@@ -192,6 +193,16 @@ This repository contains
   - [KMPSearch.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/algorithms/KMPSearch.py)
   - [binary_search.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/algorithms/binary_search.py)
   - [randomized_select.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/algorithms/randomized_select.py)
+- other
+  - amazon
+    - q1
+      - [q1.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/other/amazon/q1/q1.py)
+    - q2
+      - [q2.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/other/amazon/q2/q2.py)
+  - [fizzbuzz.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/other/fizzbuzz.py)
+  - google
+    - Flow water to cities
+      - [flow water to cities.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/other/google/Flow%20water%20to%20cities/flow%20water%20to%20cities.py)
 - utilities
 
 --- 
