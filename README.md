@@ -10,10 +10,10 @@ This repository contains
 
 
 
-### 163 solutions in total
+### 164 solutions in total
 `72` Easy
 
-`84` Medium
+`85` Medium
 
 `7 ` Hard
 ## Table of Contents
@@ -122,6 +122,7 @@ This repository contains
   - [0047. Permutations II.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0047.%20Permutations%20II.py)
   - [0048. Rotate Image.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0048.%20Rotate%20Image.py)
   - [0049. Group Anagrams.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0049.%20Group%20Anagrams.py)
+  - [0050. Pow(x, n).py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0050.%20Pow%28x%2C%20n%29.py)
   - [0053. Maximum Subarray.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0053.%20Maximum%20Subarray.py)
   - [0055. Jump Game.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0055.%20Jump%20Game.py)
   - [0056. Merge Intervals.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0056.%20Merge%20Intervals.py)
