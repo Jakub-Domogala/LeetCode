@@ -10,8 +10,8 @@ This repository contains
 
 
 
-### 167 solutions in total
-`75` Easy
+### 168 solutions in total
+`76` Easy
 
 `85` Medium
 
@@ -92,6 +92,7 @@ This repository contains
   - [2194. Cells in a Range on an Excel Sheet.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/2194.%20Cells%20in%20a%20Range%20on%20an%20Excel%20Sheet.py)
   - [2515. Shortest Distance to Target String in a Circular Array.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/2515.%20Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array.py)
   - [2696. Minimum String Length After Removing Substrings.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/2696.%20Minimum%20String%20Length%20After%20Removing%20Substrings.py)
+  - [2750. Ways to Split Array Into Good Subarrays.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/2750.%20Ways%20to%20Split%20Array%20Into%20Good%20Subarrays.py)
   - [3158. Find the XOR of Numbers Which Appear Twice.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/3158.%20Find%20the%20XOR%20of%20Numbers%20Which%20Appear%20Twice.py)
   - utilities
     - [ListNode.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/utilities/ListNode.py)
