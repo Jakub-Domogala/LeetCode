@@ -10,8 +10,8 @@ This repository contains
 
 
 
-### 164 solutions in total
-`72` Easy
+### 165 solutions in total
+`73` Easy
 
 `85` Medium
 
@@ -53,6 +53,7 @@ This repository contains
   - [0144. Binary Tree Preorder Traversal.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0144.%20Binary%20Tree%20Preorder%20Traversal.py)
   - [0145. Binary Tree Postorder Traversal.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0145.%20Binary%20Tree%20Postorder%20Traversal.py)
   - [0160. Intersection of Two Linked Lists.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0160.%20Intersection%20of%20Two%20Linked%20Lists.py)
+  - [0168. Excel Sheet Column Title.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0168.%20Excel%20Sheet%20Column%20Title.py)
   - [0169. Majority Element.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0169.%20Majority%20Element.py)
   - [0190. Reverse Bits.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0190.%20Reverse%20Bits.py)
   - [0191. Number of 1 Bits.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0191.%20Number%20of%201%20Bits.py)
@@ -196,6 +197,8 @@ This repository contains
   - [binary_search.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/algorithms/binary_search.py)
   - [randomized_select.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/algorithms/randomized_select.py)
 - other
+  - 4digits
+    - [4digits.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/other/4digits/4digits.py)
   - amazon
     - q1
       - [q1.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/other/amazon/q1/q1.py)
