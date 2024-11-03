@@ -7,6 +7,6 @@ class Solution:
             columnTitle = columnTitle[1:]
         return result
 
-print(Solution().titleToNumber("A"))
-print(Solution().titleToNumber("AB"))
-print(Solution().titleToNumber("ZY"))
+# print(Solution().titleToNumber("A"))
+# print(Solution().titleToNumber("AB"))
+# print(Solution().titleToNumber("ZY"))

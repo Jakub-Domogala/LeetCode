@@ -8,5 +8,5 @@ class Solution:
                 result.append(chr(i) + str(j))
         return result
 
-s = "A1:F1"
-print(Solution().cellsInRange(s))
+# s = "A1:F1"
+# print(Solution().cellsInRange(s))
