@@ -10,8 +10,8 @@ This repository contains
 
 
 
-### 165 solutions in total
-`73` Easy
+### 166 solutions in total
+`74` Easy
 
 `85` Medium
 
@@ -55,6 +55,7 @@ This repository contains
   - [0160. Intersection of Two Linked Lists.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0160.%20Intersection%20of%20Two%20Linked%20Lists.py)
   - [0168. Excel Sheet Column Title.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0168.%20Excel%20Sheet%20Column%20Title.py)
   - [0169. Majority Element.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0169.%20Majority%20Element.py)
+  - [0171. Excel Sheet Column Number.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0171.%20Excel%20Sheet%20Column%20Number.py)
   - [0190. Reverse Bits.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0190.%20Reverse%20Bits.py)
   - [0191. Number of 1 Bits.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0191.%20Number%20of%201%20Bits.py)
   - [0202. Happy Number.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0202.%20Happy%20Number.py)
