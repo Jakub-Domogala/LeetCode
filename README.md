@@ -10,12 +10,12 @@ This repository contains
 
 
 
-### 169 solutions in total
+### 170 solutions in total
 `77` Easy
 
 `85` Medium
 
-`7 ` Hard
+`8 ` Hard
 ## Table of Contents
 - 1.easy
   - [0001. Two Sum.java](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0001.%20Two%20Sum.java)
@@ -194,6 +194,7 @@ This repository contains
   - [0233. Number of Digit One.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0233.%20Number%20of%20Digit%20One.py)
   - [0239. Sliding Window Maximum.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0239.%20Sliding%20Window%20Maximum.py)
   - [0352. Data Stream as Disjoint Intervals.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0352.%20Data%20Stream%20as%20Disjoint%20Intervals.py)
+  - [0871. Minimum Number of Refueling Stops.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0871.%20Minimum%20Number%20of%20Refueling%20Stops.py)
   - [0982. Triples with Bitwise AND Equal To Zero.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0982.%20Triples%20with%20Bitwise%20AND%20Equal%20To%20Zero.py)
   - [3008. Find Beautiful Indices in the Given Array II.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/3008.%20Find%20Beautiful%20Indices%20in%20the%20Given%20Array%20II.py)
 - algorithms
