@@ -10,10 +10,10 @@ This repository contains
 
 
 
-### 172 solutions in total
+### 173 solutions in total
 `79` Easy
 
-`85` Medium
+`86` Medium
 
 `8 ` Hard
 ## Table of Contents
@@ -169,6 +169,7 @@ This repository contains
   - [0721. Accounts Merge.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0721.%20Accounts%20Merge.py)
   - [0725. Split Linked List in Parts.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0725.%20Split%20Linked%20List%20in%20Parts.py)
   - [0817. Linked List Components.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0817.%20Linked%20List%20Components.py)
+  - [0848. Shifting Letters.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0848.%20Shifting%20Letters.py)
   - [0890. Find and Replace Pattern.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0890.%20Find%20and%20Replace%20Pattern.py)
   - [0921. Minimum Add to Make Parentheses Valid.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.py)
   - [0973. K Closest Points to Origin.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0973.%20K%20Closest%20Points%20to%20Origin.py)
