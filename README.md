@@ -10,8 +10,8 @@ This repository contains
 
 
 
-### 173 solutions in total
-`79` Easy
+### 174 solutions in total
+`80` Easy
 
 `86` Medium
 
@@ -89,6 +89,7 @@ This repository contains
   - [0876. Middle of the Linked List.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0876.%20Middle%20of%20the%20Linked%20List.py)
   - [0997. Find the Town Judge.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0997.%20Find%20the%20Town%20Judge.py)
   - [1652. Defuse the Bomb.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/1652.%20Defuse%20the%20Bomb.py)
+  - [1844. Replace All Digits with Characters.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/1844.%20Replace%20All%20Digits%20with%20Characters.py)
   - [2032. Two Out of Three.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/2032.%20Two%20Out%20of%20Three.py)
   - [2124. Check if All A's Appears Before All B's.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/2124.%20Check%20if%20All%20A%27s%20Appears%20Before%20All%20B%27s.py)
   - [2194. Cells in a Range on an Excel Sheet.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/2194.%20Cells%20in%20a%20Range%20on%20an%20Excel%20Sheet.py)
