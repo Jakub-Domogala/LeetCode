@@ -22,5 +22,5 @@ class Solution:
     #             con_count = len(E[v])
     #     return most_con_id
 
-edges = [[1,2],[2,3],[4,2]]
-print(Solution().findCenter(edges))
+# edges = [[1,2],[2,3],[4,2]]
+# print(Solution().findCenter(edges))
