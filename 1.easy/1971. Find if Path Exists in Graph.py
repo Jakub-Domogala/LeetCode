@@ -1,3 +1,7 @@
+# Time Complexity:   O(len(edges))
+# Memory Complexity: O(len(edges))
+
+
 from typing import List
 
 class Solution:
@@ -22,13 +26,13 @@ class Solution:
         return dfs_find(all_edges, source, destination)
 
 
-n = 3
-edges = [[0,1],[1,2],[2,0]]
-source = 0
-destination = 2
-print(Solution().validPath(n, edges, source, destination), True)
-n = 4
-edges = [[0,1],[1,2],[2,0]]
-source = 0
-destination = 3
-print(Solution().validPath(n, edges, source, destination), True)
+# n = 3
+# edges = [[0,1],[1,2],[2,0]]
+# source = 0
+# destination = 2
+# print(Solution().validPath(n, edges, source, destination), True)
+# n = 4
+# edges = [[0,1],[1,2],[2,0]]
+# source = 0
+# destination = 3
+# print(Solution().validPath(n, edges, source, destination), True)
