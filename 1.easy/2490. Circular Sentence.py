@@ -13,11 +13,11 @@ class Solution:
                 return False
         return words[0][0] == words[-1][-1]
 
-sentence = "leetcode exercises sound delightful"
-print(Solution().isCircularSentence(sentence), True)
-sentence = "leetcode exercises sound good"
-print(Solution().isCircularSentence(sentence), False)
-sentence = ""
-print(Solution().isCircularSentence(sentence), True)
-sentence = "oko"
-print(Solution().isCircularSentence(sentence), True)
+# sentence = "leetcode exercises sound delightful"
+# print(Solution().isCircularSentence(sentence), True)
+# sentence = "leetcode exercises sound good"
+# print(Solution().isCircularSentence(sentence), False)
+# sentence = ""
+# print(Solution().isCircularSentence(sentence), True)
+# sentence = "oko"
+# print(Solution().isCircularSentence(sentence), True)
