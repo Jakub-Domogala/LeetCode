@@ -10,8 +10,8 @@ This repository contains
 
 
 
-### 171 solutions in total
-`78` Easy
+### 172 solutions in total
+`79` Easy
 
 `85` Medium
 
@@ -92,6 +92,7 @@ This repository contains
   - [2032. Two Out of Three.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/2032.%20Two%20Out%20of%20Three.py)
   - [2124. Check if All A's Appears Before All B's.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/2124.%20Check%20if%20All%20A%27s%20Appears%20Before%20All%20B%27s.py)
   - [2194. Cells in a Range on an Excel Sheet.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/2194.%20Cells%20in%20a%20Range%20on%20an%20Excel%20Sheet.py)
+  - [2490. Circular Sentence.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/2490.%20Circular%20Sentence.py)
   - [2515. Shortest Distance to Target String in a Circular Array.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/2515.%20Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array.py)
   - [2696. Minimum String Length After Removing Substrings.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/2696.%20Minimum%20String%20Length%20After%20Removing%20Substrings.py)
   - [2750. Ways to Split Array Into Good Subarrays.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/2750.%20Ways%20to%20Split%20Array%20Into%20Good%20Subarrays.py)
