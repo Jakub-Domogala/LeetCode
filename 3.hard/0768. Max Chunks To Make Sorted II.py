@@ -19,7 +19,7 @@ class Solution:
 
 
 
-    # def maxChunksToSorted(self, arr: List[int]) -> int:
+    # def maxChunksToSorted(self, arr: List[int]) -> int: # time O(nlogn), mem O(n)
         # def maxChunksToSortedI(arr):
         #     rolling_max = 0
         #     result = 0
@@ -37,6 +37,6 @@ class Solution:
         # return maxChunksToSortedI(unsorted_final_idx)
 
 
-arr = [2,1,3,4,4]
-result = Solution().maxChunksToSorted(arr)
-print(result, 4)
+# arr = [2,1,3,4,4]
+# result = Solution().maxChunksToSorted(arr)
+# print(result, 4)
