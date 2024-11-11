@@ -10,12 +10,12 @@ This repository contains
 
 
 
-### 179 solutions in total
-`82` Easy
+### 187 solutions in total
+`87` Easy
 
-`88` Medium
+`89` Medium
 
-`9 ` Hard
+`11` Hard
 ## Table of Contents
 - 1.easy
   - [0001. Two Sum.java](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0001.%20Two%20Sum.java)
@@ -71,6 +71,7 @@ This repository contains
   - [0232. Implement Queue using Stacks.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0232.%20Implement%20Queue%20using%20Stacks.py)
   - [0234. Palindrome Linked List.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0234.%20Palindrome%20Linked%20List.py)
   - [0242. Valid Anagram.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0242.%20Valid%20Anagram.py)
+  - [0257. Binary Tree Paths.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0257.%20Binary%20Tree%20Paths.py)
   - [0268. Missing Number.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0268.%20Missing%20Number.py)
   - [0278. First Bad Version.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0278.%20First%20Bad%20Version.py)
   - [0290. Word Pattern.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0290.%20Word%20Pattern.py)
@@ -81,6 +82,7 @@ This repository contains
   - [0409. Longest Palindrome.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0409.%20Longest%20Palindrome.py)
   - [0495. Teemo Attacking.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0495.%20Teemo%20Attacking.py)
   - [0543. Diameter of Binary Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0543.%20Diameter%20of%20Binary%20Tree.py)
+  - [0566. Reshape the Matrix.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0566.%20Reshape%20the%20Matrix.py)
   - [0589. N-ary Tree Preorder Traversal.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0589.%20N-ary%20Tree%20Preorder%20Traversal.py)
   - [0590. N-ary Tree Postorder Traversal.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0590.%20N-ary%20Tree%20Postorder%20Traversal.py)
   - [0605. Can Place Flowers.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0605.%20Can%20Place%20Flowers.py)
@@ -88,9 +90,13 @@ This repository contains
   - [0733. Flood Fill.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0733.%20Flood%20Fill.py)
   - [0876. Middle of the Linked List.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0876.%20Middle%20of%20the%20Linked%20List.py)
   - [0997. Find the Town Judge.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0997.%20Find%20the%20Town%20Judge.py)
+  - [1030. Matrix Cells in Distance Order.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/1030.%20Matrix%20Cells%20in%20Distance%20Order.py)
+  - [1356. Sort Integers by The Number of 1 Bits.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits.py)
   - [1652. Defuse the Bomb.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/1652.%20Defuse%20the%20Bomb.py)
+  - [1791. Find Center of Star Graph.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/1791.%20Find%20Center%20of%20Star%20Graph.py)
   - [1844. Replace All Digits with Characters.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/1844.%20Replace%20All%20Digits%20with%20Characters.py)
   - [1971. Find if Path Exists in Graph.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/1971.%20Find%20if%20Path%20Exists%20in%20Graph.py)
+  - [2022. Convert 1D Array Into 2D Array.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/2022.%20Convert%201D%20Array%20Into%202D%20Array.py)
   - [2032. Two Out of Three.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/2032.%20Two%20Out%20of%20Three.py)
   - [2124. Check if All A's Appears Before All B's.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/2124.%20Check%20if%20All%20A%27s%20Appears%20Before%20All%20B%27s.py)
   - [2194. Cells in a Range on an Excel Sheet.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/2194.%20Cells%20in%20a%20Range%20on%20an%20Excel%20Sheet.py)
@@ -99,7 +105,6 @@ This repository contains
   - [2696. Minimum String Length After Removing Substrings.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/2696.%20Minimum%20String%20Length%20After%20Removing%20Substrings.py)
   - [2750. Ways to Split Array Into Good Subarrays.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/2750.%20Ways%20to%20Split%20Array%20Into%20Good%20Subarrays.py)
   - [3158. Find the XOR of Numbers Which Appear Twice.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/3158.%20Find%20the%20XOR%20of%20Numbers%20Which%20Appear%20Twice.py)
-  - [9999. test file.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/9999.%20test%20file.py)
   - utilities
     - [ListNode.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/utilities/ListNode.py)
     - [TreeNode.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/utilities/TreeNode.py)
@@ -176,6 +181,7 @@ This repository contains
   - [0848. Shifting Letters.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0848.%20Shifting%20Letters.py)
   - [0890. Find and Replace Pattern.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0890.%20Find%20and%20Replace%20Pattern.py)
   - [0921. Minimum Add to Make Parentheses Valid.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.py)
+  - [0930. Binary Subarrays With Sum.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0930.%20Binary%20Subarrays%20With%20Sum.py)
   - [0973. K Closest Points to Origin.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0973.%20K%20Closest%20Points%20to%20Origin.py)
   - [0981. Time Based Key-Value Store.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0981.%20Time%20Based%20Key-Value%20Store.py)
   - [0994. Rotting Oranges.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0994.%20Rotting%20Oranges.py)
@@ -202,9 +208,11 @@ This repository contains
   - [0233. Number of Digit One.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0233.%20Number%20of%20Digit%20One.py)
   - [0239. Sliding Window Maximum.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0239.%20Sliding%20Window%20Maximum.py)
   - [0352. Data Stream as Disjoint Intervals.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0352.%20Data%20Stream%20as%20Disjoint%20Intervals.py)
+  - [0768. Max Chunks To Make Sorted II.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0768.%20Max%20Chunks%20To%20Make%20Sorted%20II.py)
   - [0871. Minimum Number of Refueling Stops.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0871.%20Minimum%20Number%20of%20Refueling%20Stops.py)
   - [0982. Triples with Bitwise AND Equal To Zero.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0982.%20Triples%20with%20Bitwise%20AND%20Equal%20To%20Zero.py)
   - [2097. Valid Arrangement of Pairs.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/2097.%20Valid%20Arrangement%20of%20Pairs.py)
+  - [2302. Count Subarrays With Score Less Than K.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/2302.%20Count%20Subarrays%20With%20Score%20Less%20Than%20K.py)
   - [3008. Find Beautiful Indices in the Given Array II.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/3008.%20Find%20Beautiful%20Indices%20in%20the%20Given%20Array%20II.py)
 - algorithms
   - [KMPSearch.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/algorithms/KMPSearch.py)
