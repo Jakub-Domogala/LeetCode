@@ -10,8 +10,6 @@ class Solution:
         c_score = 0
         cnt = 0
         while r_id < len(nums):
-            if r_id == len(nums):
-                done = True
             c_score += nums[r_id]
             r_id += 1
             while c_score * (r_id - l_id) >= k:
