@@ -10,10 +10,10 @@ This repository contains
 
 
 
-### 187 solutions in total
+### 188 solutions in total
 `87` Easy
 
-`89` Medium
+`90` Medium
 
 `11` Hard
 ## Table of Contents
@@ -187,6 +187,7 @@ This repository contains
   - [0994. Rotting Oranges.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0994.%20Rotting%20Oranges.py)
   - [1094. Car Pooling.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/1094.%20Car%20Pooling.py)
   - [1161. Maximum Level Sum of a Binary Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree.py)
+  - [1248. Count Number of Nice Subarrays.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/1248.%20Count%20Number%20of%20Nice%20Subarrays.py)
   - [1249. Minimum Remove to Make Valid Parentheses.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.py)
   - [1291. Sequential Digits.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/1291.%20Sequential%20Digits.py)
   - [1541. Minimum Insertions to Balance a Parentheses String.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/1541.%20Minimum%20Insertions%20to%20Balance%20a%20Parentheses%20String.py)
