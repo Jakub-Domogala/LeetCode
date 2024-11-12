@@ -10,10 +10,10 @@ This repository contains
 
 
 
-### 188 solutions in total
+### 189 solutions in total
 `87` Easy
 
-`90` Medium
+`91` Medium
 
 `11` Hard
 ## Table of Contents
@@ -195,6 +195,7 @@ This repository contains
   - [2095. Delete the Middle Node of a Linked List.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.py)
   - [2116. Check if a Parentheses String Can Be Valid.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/2116.%20Check%20if%20a%20Parentheses%20String%20Can%20Be%20Valid.py)
   - [2181. Merge Nodes in Between Zeros.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/2181.%20Merge%20Nodes%20in%20Between%20Zeros.py)
+  - [2261. K Divisible Elements Subarrays.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/2261.%20K%20Divisible%20Elements%20Subarrays.py)
   - [2516. Take K of Each Character From Left and Right.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/2516.%20Take%20K%20of%20Each%20Character%20From%20Left%20and%20Right.py)
   - [2583. Kth Largest Sum in a Binary Tree.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/2583.%20Kth%20Largest%20Sum%20in%20a%20Binary%20Tree.py)
   - [2607. Make K-Subarray Sums Equal.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/2607.%20Make%20K-Subarray%20Sums%20Equal.py)
