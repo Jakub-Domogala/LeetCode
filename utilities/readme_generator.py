@@ -18,6 +18,9 @@ files_excluded = [
     "tempCodeRunnerFile.py",
     "FileCounter.py"
 ]
+dirs_excluded = [
+    "other"
+]
 
 input_before = os.path.join("utilities", "readme_beginning.md")
 input_after = os.path.join("utilities", "readme_ending.md")
@@ -29,7 +32,9 @@ def generate_file_links(directory="", indent=""):
     links = ""
     entries = os.listdir("./" + directory)
     entries.sort()  # Sort the entries alphabetically
+
     for entry in entries:
+        print(entry)
         if entry[0] == "." or entry in files_excluded:
             continue
         full_path = os.path.join(directory, entry)
@@ -38,7 +43,7 @@ def generate_file_links(directory="", indent=""):
             links += generate_file_links(full_path, indent + "  ")
         elif (
             os.path.splitext(entry)[1] in file_extensions_included
-            and entry not in files_excluded
+            and entry not in files_excluded and directory not in dirs_excluded
         ):
             file_link = f"{repo_base_url}/{urllib.parse.quote(directory)}/{urllib.parse.quote(entry)}".replace(
                 "\\", "/"
