@@ -228,7 +228,6 @@ This repository contains
       - [q1.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/other/amazon/q1/q1.py)
     - q2
       - [q2.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/other/amazon/q2/q2.py)
-  - [fizzbuzz.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/other/fizzbuzz.py)
   - google
     - Flow water to cities
       - [flow water to cities.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/other/google/Flow%20water%20to%20cities/flow%20water%20to%20cities.py)
