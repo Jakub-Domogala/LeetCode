@@ -38,12 +38,12 @@ def generate_file_links(directory="", indent=""):
         if entry[0] == "." or entry in files_excluded:
             continue
         full_path = os.path.join(directory, entry)
-        if os.path.isdir(full_path) and not directory in dirs_excluded:
+        if os.path.isdir(full_path) and not os.path.splitext(entry)[0] in dirs_excluded:
             links += f"{indent}- {entry}\n"
             links += generate_file_links(full_path, indent + "  ")
         elif (
             os.path.splitext(entry)[1] in file_extensions_included
-            and entry not in files_excluded and not directory in dirs_excluded
+            and entry not in files_excluded and not os.path.splitext(entry)[0] in dirs_excluded
         ):
             file_link = f"{repo_base_url}/{urllib.parse.quote(directory)}/{urllib.parse.quote(entry)}".replace(
                 "\\", "/"
