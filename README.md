@@ -220,7 +220,6 @@ This repository contains
   - [KMPSearch.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/algorithms/KMPSearch.py)
   - [binary_search.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/algorithms/binary_search.py)
   - [randomized_select.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/algorithms/randomized_select.py)
-- other
 - utilities
 
 --- 
