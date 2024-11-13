@@ -10,12 +10,12 @@ This repository contains
 
 
 
-### 190 solutions in total
+### 191 solutions in total
 `87` Easy
 
 `92` Medium
 
-`11` Hard
+`12` Hard
 ## Table of Contents
 - 1.easy
   - [0001. Two Sum.java](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0001.%20Two%20Sum.java)
@@ -210,6 +210,7 @@ This repository contains
   - [0220. Contains Duplicate III.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0220.%20Contains%20Duplicate%20III.py)
   - [0233. Number of Digit One.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0233.%20Number%20of%20Digit%20One.py)
   - [0239. Sliding Window Maximum.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0239.%20Sliding%20Window%20Maximum.py)
+  - [0329. Longest Increasing Path in a Matrix.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.py)
   - [0352. Data Stream as Disjoint Intervals.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0352.%20Data%20Stream%20as%20Disjoint%20Intervals.py)
   - [0768. Max Chunks To Make Sorted II.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0768.%20Max%20Chunks%20To%20Make%20Sorted%20II.py)
   - [0871. Minimum Number of Refueling Stops.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/3.hard/0871.%20Minimum%20Number%20of%20Refueling%20Stops.py)
