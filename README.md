@@ -221,16 +221,6 @@ This repository contains
   - [binary_search.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/algorithms/binary_search.py)
   - [randomized_select.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/algorithms/randomized_select.py)
 - other
-  - 4digits
-    - [4digits.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/other/4digits/4digits.py)
-  - amazon
-    - q1
-      - [q1.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/other/amazon/q1/q1.py)
-    - q2
-      - [q2.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/other/amazon/q2/q2.py)
-  - google
-    - Flow water to cities
-      - [flow water to cities.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/other/google/Flow%20water%20to%20cities/flow%20water%20to%20cities.py)
 - utilities
 
 --- 
