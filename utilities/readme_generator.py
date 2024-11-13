@@ -38,7 +38,7 @@ def generate_file_links(directory="", indent=""):
         if entry[0] == "." or entry in files_excluded:
             continue
         full_path = os.path.join(directory, entry)
-        if os.path.isdir(full_path):
+        if os.path.isdir(full_path) and not directory in dirs_excluded:
             links += f"{indent}- {entry}\n"
             links += generate_file_links(full_path, indent + "  ")
         elif (
