@@ -10,8 +10,8 @@ This repository contains
 
 
 
-### 191 solutions in total
-`87` Easy
+### 192 solutions in total
+`88` Easy
 
 `92` Medium
 
@@ -72,6 +72,7 @@ This repository contains
   - [0234. Palindrome Linked List.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0234.%20Palindrome%20Linked%20List.py)
   - [0242. Valid Anagram.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0242.%20Valid%20Anagram.py)
   - [0257. Binary Tree Paths.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0257.%20Binary%20Tree%20Paths.py)
+  - [0258. Add Digits.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0258.%20Add%20Digits.py)
   - [0268. Missing Number.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0268.%20Missing%20Number.py)
   - [0278. First Bad Version.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0278.%20First%20Bad%20Version.py)
   - [0290. Word Pattern.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0290.%20Word%20Pattern.py)
