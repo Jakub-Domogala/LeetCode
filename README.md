@@ -10,8 +10,8 @@ This repository contains
 
 
 
-### 192 solutions in total
-`88` Easy
+### 193 solutions in total
+`89` Easy
 
 `92` Medium
 
@@ -73,6 +73,7 @@ This repository contains
   - [0242. Valid Anagram.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0242.%20Valid%20Anagram.py)
   - [0257. Binary Tree Paths.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0257.%20Binary%20Tree%20Paths.py)
   - [0258. Add Digits.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0258.%20Add%20Digits.py)
+  - [0263. Ugly Number.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0263.%20Ugly%20Number.py)
   - [0268. Missing Number.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0268.%20Missing%20Number.py)
   - [0278. First Bad Version.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0278.%20First%20Bad%20Version.py)
   - [0290. Word Pattern.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0290.%20Word%20Pattern.py)
