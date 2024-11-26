@@ -19,6 +19,6 @@ class Solution:
             nums[i] = 0
 
 
-nums = [0,1,0,3,12]
-Solution().moveZeroes(nums)
-print(nums)
+# nums = [0,1,0,3,12]
+# Solution().moveZeroes(nums)
+# print(nums)
