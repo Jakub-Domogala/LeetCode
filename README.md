@@ -10,8 +10,8 @@ This repository contains
 
 
 
-### 193 solutions in total
-`89` Easy
+### 194 solutions in total
+`90` Easy
 
 `92` Medium
 
@@ -76,6 +76,7 @@ This repository contains
   - [0263. Ugly Number.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0263.%20Ugly%20Number.py)
   - [0268. Missing Number.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0268.%20Missing%20Number.py)
   - [0278. First Bad Version.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0278.%20First%20Bad%20Version.py)
+  - [0283. Move Zeroes.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0283.%20Move%20Zeroes.py)
   - [0290. Word Pattern.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0290.%20Word%20Pattern.py)
   - [0326. Power of Three.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0326.%20Power%20of%20Three.py)
   - [0338. Counting Bits.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0338.%20Counting%20Bits.py)
