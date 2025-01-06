@@ -1,3 +1,7 @@
+# Time Complexity:   O(m*n)
+# Memory Complexity: O(m*n)
+# Where obstacleGrid is of size m x n
+
 from typing import List
 
 class Solution:
