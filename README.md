@@ -10,10 +10,10 @@ This repository contains
 
 
 
-### 194 solutions in total
+### 195 solutions in total
 `90` Easy
 
-`92` Medium
+`93` Medium
 
 `12` Hard
 ## Table of Contents
@@ -146,6 +146,7 @@ This repository contains
   - [0056. Merge Intervals.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0056.%20Merge%20Intervals.py)
   - [0057. Insert Interval.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0057.%20Insert%20Interval.py)
   - [0061. Rotate List.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0061.%20Rotate%20List.py)
+  - [0062. Unique Paths.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0062.%20Unique%20Paths.py)
   - [0074. Search a 2D Matrix.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0074.%20Search%20a%202D%20Matrix.py)
   - [0075. Sort Colors.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0075.%20Sort%20Colors.py)
   - [0078. Subsets.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0078.%20Subsets.py)
