@@ -85,6 +85,11 @@ with open(output_file, "w") as f:
         + "{:<{w}d}`".format(dir_count_dict["./3.hard"], w=counters_size)
         + " Hard\n"
     )
+    f.write(
+        "\n"
+        + "*Duplicate solutions written in different languages count as one solution.*\n"
+    )
+
     # f.write("\n--- \n")
     f.write("## Table of Contents\n")
     file_links = generate_file_links()

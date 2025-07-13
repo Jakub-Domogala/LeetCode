@@ -1,25 +1,27 @@
 #!/bin/bash
 
-# Ensure a file path is provided
 if [ -z "$1" ]; then
-  echo "Usage: ./run_cpp.sh path/to/filename.cpp"
+  echo "Usage: ./run_cpp.sh path/to/file.cpp"
   exit 1
 fi
 
-FILE="$1"
+MAIN_FILE="$1"
+EXEC="run_exec"
 
-# Check if file exists
-if [ ! -f "$FILE" ]; then
-  echo "Error: File '$FILE' not found."
-  exit 1
+# Get the directory where the main file is located (e.g., "2.medium")
+MAIN_DIR=$(dirname "$MAIN_FILE")
+
+# Get the full path to the "utilities" directory at the same level, if it exists
+UTIL_DIR="$MAIN_DIR/utilities"
+
+# Collect all cpp files in that utilities directory
+UTIL_CPP_FILES=""
+if [ -d "$UTIL_DIR" ]; then
+  UTIL_CPP_FILES=$(find "$UTIL_DIR" -name "*.cpp")
 fi
 
-# Extract filename without extension and directory
-FILENAME=$(basename -- "$FILE")
-EXEC="${FILENAME%.*}_exec"
-
-# Compile
-g++ -std=c++17 -Wall -Wextra -O2 "$FILE" -o "$EXEC"
+# Compile main file and utility files
+g++ -std=c++17 -Wall -Wextra "$MAIN_FILE" $UTIL_CPP_FILES -o "$EXEC"
 if [ $? -ne 0 ]; then
   echo "❌ Compilation failed."
   exit 1
