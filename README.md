@@ -16,6 +16,8 @@ This repository contains
 `95` Medium
 
 `12` Hard
+
+*Duplicate solutions written in different languages count as one solution.*
 ## Table of Contents
 - 1.easy
   - [0001. Two Sum.cpp](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/0001.%20Two%20Sum.cpp)
@@ -113,6 +115,7 @@ This repository contains
     - [ListNode.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/utilities/ListNode.py)
     - [TreeNode.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/1.easy/utilities/TreeNode.py)
 - 2.medium
+  - [0002. Add Two Numbers.cpp](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0002.%20Add%20Two%20Numbers.cpp)
   - [0002. Add Two Numbers.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0002.%20Add%20Two%20Numbers.py)
   - [0003. Longest Substring Without Repeating Characters.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0003.%20Longest%20Substring%20Without%20Repeating%20Characters.py)
   - [0005. Longest Palindromic Substring.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0005.%20Longest%20Palindromic%20Substring.py)
