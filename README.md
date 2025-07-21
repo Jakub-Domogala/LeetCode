@@ -213,6 +213,7 @@ This repository contains
   - [3011. Find if Array Can Be Sorted.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/3011.%20Find%20if%20Array%20Can%20Be%20Sorted.py)
   - utilities
     - [ListNode.cpp](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/utilities/ListNode.cpp)
+    - [ListNode.h](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/utilities/ListNode.h)
     - [ListNode.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/utilities/ListNode.py)
     - [TreeNode.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/utilities/TreeNode.py)
     - [TrieNode.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/utilities/TrieNode.py)
