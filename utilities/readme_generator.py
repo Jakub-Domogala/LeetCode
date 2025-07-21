@@ -8,7 +8,7 @@ repo_name = "LeetCode"
 repo_branch = "master"
 repo_base_url = f"https://github.com/{repo_owner}/{repo_name}/blob/{repo_branch}"
 
-file_extensions_included = [".py", ".java", ".cpp"]
+file_extensions_included = [".py", ".java", ".cpp", ".h"]
 files_excluded = [
     "readme_generator.py",
     "test.py",
