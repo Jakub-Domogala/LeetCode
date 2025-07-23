@@ -119,6 +119,7 @@ This repository contains
   - [0002. Add Two Numbers.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0002.%20Add%20Two%20Numbers.py)
   - [0003. Longest Substring Without Repeating Characters.cpp](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0003.%20Longest%20Substring%20Without%20Repeating%20Characters.cpp)
   - [0003. Longest Substring Without Repeating Characters.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0003.%20Longest%20Substring%20Without%20Repeating%20Characters.py)
+  - [0005. Longest Palindromic Substring.cpp](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0005.%20Longest%20Palindromic%20Substring.cpp)
   - [0005. Longest Palindromic Substring.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0005.%20Longest%20Palindromic%20Substring.py)
   - [0006. Zigzag Conversion.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0006.%20Zigzag%20Conversion.py)
   - [0007. Reverse Integer.py](https://github.com/Jakub-Domogala/LeetCode/blob/master/2.medium/0007.%20Reverse%20Integer.py)
